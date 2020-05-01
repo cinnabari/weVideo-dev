@@ -1,0 +1,5 @@
+package com.weVideo.controller;
+@Controller
+public class HelloController {
+
+}

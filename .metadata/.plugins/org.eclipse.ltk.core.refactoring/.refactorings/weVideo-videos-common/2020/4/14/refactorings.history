@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 3 packages to &apos;weVideo-admin-common/src/main/java&apos;&#x0D;&#x0A;- Original project: &apos;weVideo-videos-common&apos;&#x0D;&#x0A;- Destination element: &apos;weVideo-admin-common/src/main/java&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     weVideo-videos-common/src/main/java/org.n3r.idworker&#x0D;&#x0A;     weVideo-videos-common/src/main/java/org.n3r.idworker.strategy&#x0D;&#x0A;     weVideo-videos-common/src/main/java/org.n3r.idworker.utils" description="Copy packages" destination="=weVideo-admin-common/src\/main\/java" element1="/src\/main\/java&lt;org.n3r.idworker" element2="/src\/main\/java&lt;org.n3r.idworker.strategy" element3="/src\/main\/java&lt;org.n3r.idworker.utils" flags="589830" fragments="3" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1585920971394" version="1.0"/>
+</session>
