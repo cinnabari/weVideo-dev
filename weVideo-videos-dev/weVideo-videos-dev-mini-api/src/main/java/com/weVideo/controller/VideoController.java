@@ -137,7 +137,7 @@ public class VideoController extends BasicController {
 			String videoOutputName = UUID.randomUUID().toString() + ".mp4";
 			uploadPathDB = "/" + userId + "/video" + "/" + videoOutputName;
 			finalVideoPath = FILE_SPACE + uploadPathDB;
-			tool.convertor(videoInputPath, mp3InputPath, videoSeconds, finalVideoPath);
+			tool.convertor(mp3InputPath, videoInputPath, videoSeconds, finalVideoPath);
 		}
 		System.out.println("uploadPathDB=" + uploadPathDB);
 		System.out.println("finalVideoPath=" + finalVideoPath);

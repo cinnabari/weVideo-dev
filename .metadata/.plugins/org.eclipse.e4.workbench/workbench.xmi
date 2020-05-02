@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="ASCII"?>
 <application:Application xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:advanced="http://www.eclipse.org/ui/2010/UIModel/application/ui/advanced" xmlns:application="http://www.eclipse.org/ui/2010/UIModel/application" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmlns:ui="http://www.eclipse.org/ui/2010/UIModel/application/ui" xmi:id="_8it6wIkxEeqqV5JCpWsbYQ" elementId="org.eclipse.e4.legacy.ide.application" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_8it6wYkxEeqqV5JCpWsbYQ" bindingContexts="_8iw-d4kxEeqqV5JCpWsbYQ">
-  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart&quot; name=&quot;CommentsMapperCustom.xml&quot; tooltip=&quot;weVideo-videos-dev-mini-api/src/main/resources/mapper/CommentsMapperCustom.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/weVideo-videos-dev-mini-api/src/main/resources/mapper/CommentsMapperCustom.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CommentsMapperCustom.java&quot; tooltip=&quot;weVideo-videos-dev-mapper/src/main/java/com/weVideo/mapper/CommentsMapperCustom.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/weVideo-videos-dev-mapper/src/main/java/com/weVideo/mapper/CommentsMapperCustom.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;VideosMapperCustom.java&quot; tooltip=&quot;weVideo-videos-dev-mapper/src/main/java/com/weVideo/mapper/VideosMapperCustom.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/weVideo-videos-dev-mapper/src/main/java/com/weVideo/mapper/VideosMapperCustom.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CommentsMapper.java&quot; tooltip=&quot;weVideo-videos-dev-mapper/src/main/java/com/weVideo/mapper/CommentsMapper.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/weVideo-videos-dev-mapper/src/main/java/com/weVideo/mapper/CommentsMapper.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;VideoServiceImpl.java&quot; tooltip=&quot;weVideo-videos-dev-service/src/main/java/com/weVideo/serviceImpl/VideoServiceImpl.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/weVideo-videos-dev-service/src/main/java/com/weVideo/serviceImpl/VideoServiceImpl.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.jdt.ui.ClassFileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.ClassFileEditor&quot; name=&quot;StringRedisTemplate.class&quot; tooltip=&quot;org.springframework.data.redis.core.StringRedisTemplate&quot;>&#xD;&#xA;&lt;persistable org.eclipse.jdt.ui.ClassFileIdentifier=&quot;=weVideo-videos-common/D:\/mvn\/repo\/org\/springframework\/data\/spring-data-redis\/1.8.11.RELEASE\/spring-data-redis-1.8.11.RELEASE.jar&amp;lt;org.springframework.data.redis.core(StringRedisTemplate.class&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;RedisOperator.java&quot; tooltip=&quot;weVideo-videos-common/src/main/java/com/weVideo/utils/RedisOperator.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/weVideo-videos-common/src/main/java/com/weVideo/utils/RedisOperator.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;RegistLoginController.java&quot; tooltip=&quot;weVideo-videos-dev-mini-api/src/main/java/com/weVideo/controller/RegistLoginController.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/weVideo-videos-dev-mini-api/src/main/java/com/weVideo/controller/RegistLoginController.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;WebMvcConfig.java&quot; tooltip=&quot;weVideo-videos-dev-mini-api/src/main/java/com/weVideo/WebMvcConfig.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/weVideo-videos-dev-mini-api/src/main/java/com/weVideo/WebMvcConfig.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Swagger2.java&quot; tooltip=&quot;weVideo-videos-dev-mini-api/src/main/java/com/weVideo/Swagger2.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/weVideo-videos-dev-mini-api/src/main/java/com/weVideo/Swagger2.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Application.java&quot; tooltip=&quot;weVideo-videos-dev-mini-api/src/main/java/com/weVideo/Application.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/weVideo-videos-dev-mini-api/src/main/java/com/weVideo/Application.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;VideoController.java&quot; tooltip=&quot;weVideo-videos-dev-mini-api/src/main/java/com/weVideo/controller/VideoController.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/weVideo-videos-dev-mini-api/src/main/java/com/weVideo/controller/VideoController.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;BgmController.java&quot; tooltip=&quot;weVideo-videos-dev-mini-api/src/main/java/com/weVideo/controller/BgmController.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/weVideo-videos-dev-mini-api/src/main/java/com/weVideo/controller/BgmController.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;BasicController.java&quot; tooltip=&quot;weVideo-videos-dev-mini-api/src/main/java/com/weVideo/controller/BasicController.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/weVideo-videos-dev-mini-api/src/main/java/com/weVideo/controller/BasicController.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;MiniInterceptor.java&quot; tooltip=&quot;weVideo-videos-dev-mini-api/src/main/java/com/weVideo/controller/interceptor/MiniInterceptor.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/weVideo-videos-dev-mini-api/src/main/java/com/weVideo/controller/interceptor/MiniInterceptor.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.PropertiesFileEditor&quot; name=&quot;application.properties&quot; tooltip=&quot;weVideo-videos-dev-mini-api/src/main/resources/application.properties&quot;>&#xD;&#xA;&lt;persistable path=&quot;/weVideo-videos-dev-mini-api/src/main/resources/application.properties&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.m2e.editor.MavenPomEditor&quot; name=&quot;pom.xml&quot; tooltip=&quot;weVideo-videos-dev-mini-api/pom.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/weVideo-videos-dev-mini-api/pom.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;TimeAgoUtils.java&quot; tooltip=&quot;weVideo-videos-common/src/main/java/com/weVideo/utils/TimeAgoUtils.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/weVideo-videos-common/src/main/java/com/weVideo/utils/TimeAgoUtils.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;PagedResult.java&quot; tooltip=&quot;weVideo-videos-common/src/main/java/com/weVideo/utils/PagedResult.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/weVideo-videos-common/src/main/java/com/weVideo/utils/PagedResult.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.essiembre.eclipse.rbe.ui.editor.ResourceBundleEditor&quot; name=&quot;commonFooterJS.jsp&quot; tooltip=&quot;weVideo-admin-mng/src/main/webapp/WEB-INF/center/common/commonFooterJS.jsp&quot;>&#xD;&#xA;&lt;persistable path=&quot;/weVideo-admin-mng/src/main/webapp/WEB-INF/center/common/commonFooterJS.jsp&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
+  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;MergeVideoMp3.java&quot; tooltip=&quot;weVideo-videos-common/src/main/java/com/weVideo/utils/MergeVideoMp3.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/weVideo-videos-common/src/main/java/com/weVideo/utils/MergeVideoMp3.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;VideoController.java&quot; tooltip=&quot;weVideo-videos-dev-mini-api/src/main/java/com/weVideo/controller/VideoController.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/weVideo-videos-dev-mini-api/src/main/java/com/weVideo/controller/VideoController.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;BasicController.java&quot; tooltip=&quot;weVideo-videos-dev-mini-api/src/main/java/com/weVideo/controller/BasicController.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/weVideo-videos-dev-mini-api/src/main/java/com/weVideo/controller/BasicController.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;FFMpegTest.java&quot; tooltip=&quot;weVideo-videos-common/src/main/java/com/weVideo/utils/FFMpegTest.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/weVideo-videos-common/src/main/java/com/weVideo/utils/FFMpegTest.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;VideoService.java&quot; tooltip=&quot;weVideo-videos-dev-service/src/main/java/com/weVideo/service/VideoService.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/weVideo-videos-dev-service/src/main/java/com/weVideo/service/VideoService.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;VideoServiceImpl.java&quot; tooltip=&quot;weVideo-videos-dev-service/src/main/java/com/weVideo/serviceImpl/VideoServiceImpl.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/weVideo-videos-dev-service/src/main/java/com/weVideo/serviceImpl/VideoServiceImpl.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;PagedResult.java&quot; tooltip=&quot;weVideo-videos-common/src/main/java/com/weVideo/utils/PagedResult.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/weVideo-videos-common/src/main/java/com/weVideo/utils/PagedResult.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;UserController.java&quot; tooltip=&quot;weVideo-videos-dev-mini-api/src/main/java/com/weVideo/controller/UserController.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/weVideo-videos-dev-mini-api/src/main/java/com/weVideo/controller/UserController.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.m2e.editor.MavenPomEditor&quot; name=&quot;pom.xml&quot; tooltip=&quot;weVideo-videos-common/pom.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/weVideo-videos-common/pom.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Application.java&quot; tooltip=&quot;weVideo-videos-dev-mini-api/src/main/java/com/weVideo/Application.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/weVideo-videos-dev-mini-api/src/main/java/com/weVideo/Application.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;MD5Utils.java&quot; tooltip=&quot;weVideo-videos-common/src/main/java/com/weVideo/utils/MD5Utils.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/weVideo-videos-common/src/main/java/com/weVideo/utils/MD5Utils.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;BgmMapper.java&quot; tooltip=&quot;weVideo-videos-dev-mapper/src/main/java/com/weVideo/mapper/BgmMapper.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/weVideo-videos-dev-mapper/src/main/java/com/weVideo/mapper/BgmMapper.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;JsonUtils.java&quot; tooltip=&quot;weVideo-videos-common/src/main/java/com/weVideo/utils/JsonUtils.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/weVideo-videos-common/src/main/java/com/weVideo/utils/JsonUtils.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.m2e.editor.MavenPomEditor&quot; name=&quot;pom.xml&quot; tooltip=&quot;weVideo-videos-dev-mapper/pom.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/weVideo-videos-dev-mapper/pom.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.m2e.editor.MavenPomEditor&quot; name=&quot;pom.xml&quot; tooltip=&quot;weVideo-videos-dev-mini-api/pom.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/weVideo-videos-dev-mini-api/pom.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.m2e.editor.MavenPomEditor&quot; name=&quot;pom.xml&quot; tooltip=&quot;weVideo-videos-dev-pojo/pom.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/weVideo-videos-dev-pojo/pom.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;WebMvcConfig.java&quot; tooltip=&quot;weVideo-videos-dev-mini-api/src/main/java/com/weVideo/WebMvcConfig.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/weVideo-videos-dev-mini-api/src/main/java/com/weVideo/WebMvcConfig.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.PropertiesFileEditor&quot; name=&quot;application.properties&quot; tooltip=&quot;weVideo-videos-dev-mini-api/src/main/resources/application.properties&quot;>&#xD;&#xA;&lt;persistable path=&quot;/weVideo-videos-dev-mini-api/src/main/resources/application.properties&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;BgmServiceImpl.java&quot; tooltip=&quot;weVideo-videos-dev-service/src/main/java/com/weVideo/serviceImpl/BgmServiceImpl.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/weVideo-videos-dev-service/src/main/java/com/weVideo/serviceImpl/BgmServiceImpl.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;BgmService.java&quot; tooltip=&quot;weVideo-videos-dev-service/src/main/java/com/weVideo/service/BgmService.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/weVideo-videos-dev-service/src/main/java/com/weVideo/service/BgmService.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
   <tags>ModelMigrationProcessor.001</tags>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
-  <children xsi:type="basic:TrimmedWindow" xmi:id="_8it6wYkxEeqqV5JCpWsbYQ" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_8it6wokxEeqqV5JCpWsbYQ" label="%trimmedwindow.label.eclipseSDK" x="285" y="9" width="1619" height="1039">
+  <children xsi:type="basic:TrimmedWindow" xmi:id="_8it6wYkxEeqqV5JCpWsbYQ" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_8it6wokxEeqqV5JCpWsbYQ" label="%trimmedwindow.label.eclipseSDK" x="64" y="-15" width="1620" height="1039">
     <persistedState key="coolBarVisible" value="true"/>
     <persistedState key="perspectiveBarVisible" value="true"/>
     <persistedState key="isRestored" value="true"/>
@@ -11,8 +11,9 @@
     <persistedState key="workingSets" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workingSets/>"/>
     <persistedState key="aggregateWorkingSetId" value="Aggregate for window 1584517622403"/>
     <tags>topLevel</tags>
+    <tags>shellMaximized</tags>
     <children xsi:type="basic:PartSashContainer" xmi:id="_8it6wokxEeqqV5JCpWsbYQ" selectedElement="_8it6w4kxEeqqV5JCpWsbYQ" horizontal="true">
-      <children xsi:type="advanced:PerspectiveStack" xmi:id="_8it6w4kxEeqqV5JCpWsbYQ" elementId="org.eclipse.ui.ide.perspectivestack" containerData="7500" selectedElement="_8it6xIkxEeqqV5JCpWsbYQ">
+      <children xsi:type="advanced:PerspectiveStack" xmi:id="_8it6w4kxEeqqV5JCpWsbYQ" elementId="org.eclipse.ui.ide.perspectivestack" containerData="7500" selectedElement="_tzrAQIxOEeq5Bt33UatOLA">
         <children xsi:type="advanced:Perspective" xmi:id="_8it6xIkxEeqqV5JCpWsbYQ" elementId="org.eclipse.jdt.ui.JavaPerspective" selectedElement="_8it6xYkxEeqqV5JCpWsbYQ" label="Java" iconURI="platform:/plugin/org.eclipse.jdt.ui/$nl$/icons/full/eview16/jperspective.png">
           <persistedState key="persp.hiddenItems" value="persp.hideToolbarSC:print,persp.hideToolbarSC:org.eclipse.ui.edit.undo,persp.hideToolbarSC:org.eclipse.ui.edit.redo,persp.hideToolbarSC:org.eclipse.ui.edit.text.toggleShowSelectedElementOnly,persp.hideToolbarSC:org.eclipse.debug.ui.commands.RunToLine,persp.hideToolbarSC:org.eclipse.jdt.ui.actions.OpenProjectWizard,"/>
           <tags>persp.actionSet:org.eclipse.ui.cheatsheets.actionSet</tags>
@@ -75,7 +76,7 @@
           <tags>persp.viewSC:org.eclipse.ant.ui.views.AntView</tags>
           <tags>persp.actionSet:org.eclipse.debug.ui.debugActionSet</tags>
           <children xsi:type="basic:PartSashContainer" xmi:id="_8it6xYkxEeqqV5JCpWsbYQ" selectedElement="_8it60okxEeqqV5JCpWsbYQ" horizontal="true">
-            <children xsi:type="basic:PartSashContainer" xmi:id="_8it6xokxEeqqV5JCpWsbYQ" containerData="1786" selectedElement="_8it6x4kxEeqqV5JCpWsbYQ">
+            <children xsi:type="basic:PartSashContainer" xmi:id="_8it6xokxEeqqV5JCpWsbYQ" containerData="1883" selectedElement="_8it6x4kxEeqqV5JCpWsbYQ">
               <children xsi:type="basic:PartSashContainer" xmi:id="_8it6x4kxEeqqV5JCpWsbYQ" containerData="6000" selectedElement="_8it6yIkxEeqqV5JCpWsbYQ">
                 <children xsi:type="basic:PartStack" xmi:id="_8it6yIkxEeqqV5JCpWsbYQ" elementId="left" containerData="7063" selectedElement="_8it6yYkxEeqqV5JCpWsbYQ">
                   <tags>org.eclipse.e4.primaryNavigationStack</tags>
@@ -114,7 +115,7 @@
                 </children>
               </children>
             </children>
-            <children xsi:type="basic:PartSashContainer" xmi:id="_8it60okxEeqqV5JCpWsbYQ" containerData="8214" selectedElement="_8it604kxEeqqV5JCpWsbYQ">
+            <children xsi:type="basic:PartSashContainer" xmi:id="_8it60okxEeqqV5JCpWsbYQ" containerData="8117" selectedElement="_8it604kxEeqqV5JCpWsbYQ">
               <children xsi:type="basic:PartSashContainer" xmi:id="_8it604kxEeqqV5JCpWsbYQ" containerData="7529" selectedElement="_8it61IkxEeqqV5JCpWsbYQ" horizontal="true">
                 <children xsi:type="advanced:Placeholder" xmi:id="_8it61IkxEeqqV5JCpWsbYQ" elementId="org.eclipse.ui.editorss" containerData="5400" ref="_8iui1YkxEeqqV5JCpWsbYQ"/>
                 <children xsi:type="basic:PartStack" xmi:id="_8it61YkxEeqqV5JCpWsbYQ" elementId="right" visible="false" containerData="600" selectedElement="_8it61okxEeqqV5JCpWsbYQ">
@@ -186,6 +187,155 @@
             </children>
           </children>
         </children>
+        <children xsi:type="advanced:Perspective" xmi:id="_tzrAQIxOEeq5Bt33UatOLA" elementId="org.eclipse.debug.ui.DebugPerspective" selectedElement="_tzrAQYxOEeq5Bt33UatOLA" label="Debug" iconURI="platform:/plugin/org.eclipse.debug.ui/$nl$/icons/full/eview16/debug_persp.png">
+          <persistedState key="persp.hiddenItems" value="persp.hideToolbarSC:print,persp.hideToolbarSC:org.eclipse.ui.edit.undo,persp.hideToolbarSC:org.eclipse.ui.edit.redo,persp.hideToolbarSC:org.eclipse.ui.edit.text.toggleShowSelectedElementOnly,persp.hideToolbarSC:org.eclipse.debug.ui.commands.RunToLine,persp.hideToolbarSC:org.eclipse.jdt.ui.actions.OpenProjectWizard,"/>
+          <tags>persp.actionSet:org.eclipse.ui.cheatsheets.actionSet</tags>
+          <tags>persp.actionSet:org.eclipse.search.searchActionSet</tags>
+          <tags>persp.actionSet:org.eclipse.ui.edit.text.actionSet.annotationNavigation</tags>
+          <tags>persp.actionSet:org.eclipse.ui.edit.text.actionSet.navigation</tags>
+          <tags>persp.actionSet:org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo</tags>
+          <tags>persp.actionSet:org.eclipse.ui.externaltools.ExternalToolsSet</tags>
+          <tags>persp.actionSet:org.eclipse.ui.actionSet.keyBindings</tags>
+          <tags>persp.actionSet:org.eclipse.ui.actionSet.openFiles</tags>
+          <tags>persp.actionSet:org.eclipse.wst.jsdt.chromium.debug.ui.actionSets</tags>
+          <tags>persp.actionSet:org.springsource.ide.eclipse.quicksearch.actionSet</tags>
+          <tags>persp.actionSet:org.springsource.ide.eclipse.commons.launch.actionSet</tags>
+          <tags>persp.viewSC:org.eclipse.ui.views.ProgressView</tags>
+          <tags>persp.viewSC:org.eclipse.ui.texteditor.TemplatesView</tags>
+          <tags>persp.actionSet:org.eclipse.debug.ui.launchActionSet</tags>
+          <tags>persp.actionSet:org.eclipse.debug.ui.debugActionSet</tags>
+          <tags>persp.actionSet:org.eclipse.ui.NavigateActionSet</tags>
+          <tags>persp.viewSC:org.eclipse.debug.ui.DebugView</tags>
+          <tags>persp.viewSC:org.eclipse.debug.ui.VariableView</tags>
+          <tags>persp.viewSC:org.eclipse.debug.ui.BreakpointView</tags>
+          <tags>persp.viewSC:org.eclipse.debug.ui.ExpressionView</tags>
+          <tags>persp.viewSC:org.eclipse.ui.views.ContentOutline</tags>
+          <tags>persp.viewSC:org.eclipse.ui.console.ConsoleView</tags>
+          <tags>persp.viewSC:org.eclipse.ui.views.ProblemView</tags>
+          <tags>persp.viewSC:org.eclipse.ui.navigator.ProjectExplorer</tags>
+          <tags>persp.viewSC:org.eclipse.pde.runtime.LogView</tags>
+          <tags>persp.actionSet:org.eclipse.debug.ui.breakpointActionSet</tags>
+          <tags>persp.perspSC:org.eclipse.wst.xml.ui.perspective</tags>
+          <tags>persp.perspSC:org.eclipse.jdt.ui.JavaPerspective</tags>
+          <tags>persp.perspSC:org.eclipse.jdt.ui.JavaBrowsingPerspective</tags>
+          <tags>persp.actionSet:org.eclipse.jdt.ui.JavaActionSet</tags>
+          <tags>persp.showIn:org.eclipse.jdt.ui.PackageExplorer</tags>
+          <tags>persp.perspSC:org.eclipse.wst.jsdt.ui.JavaPerspective</tags>
+          <tags>persp.showIn:org.eclipse.wst.jsdt.ui.PackageExplorer</tags>
+          <tags>persp.actionSet:org.eclipse.jdt.debug.ui.JDTDebugActionSet</tags>
+          <tags>persp.viewSC:org.eclipse.jdt.debug.ui.DisplayView</tags>
+          <tags>persp.showIn:org.eclipse.egit.ui.RepositoriesView</tags>
+          <tags>persp.viewSC:org.eclipse.tm.terminal.view.ui.TerminalsView</tags>
+          <tags>persp.showIn:org.eclipse.tm.terminal.view.ui.TerminalsView</tags>
+          <tags>persp.viewSC:org.eclipse.jdt.junit.ResultView</tags>
+          <tags>persp.viewSC:org.eclipse.ant.ui.views.AntView</tags>
+          <children xsi:type="basic:PartSashContainer" xmi:id="_tzrAQYxOEeq5Bt33UatOLA" selectedElement="_tzrnU4xOEeq5Bt33UatOLA" horizontal="true">
+            <children xsi:type="basic:PartStack" xmi:id="_tzrAQoxOEeq5Bt33UatOLA" elementId="org.eclipse.debug.internal.ui.NavigatorFolderView" containerData="1700" selectedElement="_tzrARIxOEeq5Bt33UatOLA">
+              <tags>org.eclipse.e4.primaryNavigationStack</tags>
+              <children xsi:type="advanced:Placeholder" xmi:id="_tzrAQ4xOEeq5Bt33UatOLA" elementId="org.eclipse.debug.ui.DebugView" ref="_8ivJbYkxEeqqV5JCpWsbYQ" closeable="true">
+                <tags>View</tags>
+                <tags>categoryTag:Debug</tags>
+              </children>
+              <children xsi:type="advanced:Placeholder" xmi:id="_tzrARIxOEeq5Bt33UatOLA" elementId="org.eclipse.ui.navigator.ProjectExplorer" ref="_8ivI8IkxEeqqV5JCpWsbYQ" closeable="true">
+                <tags>View</tags>
+                <tags>categoryTag:General</tags>
+              </children>
+              <children xsi:type="advanced:Placeholder" xmi:id="_tzrARYxOEeq5Bt33UatOLA" elementId="org.eclipse.wst.server.ui.ServersView" ref="_8ivJcokxEeqqV5JCpWsbYQ" closeable="true">
+                <tags>View</tags>
+                <tags>categoryTag:Server</tags>
+              </children>
+              <children xsi:type="advanced:Placeholder" xmi:id="_tzrnUIxOEeq5Bt33UatOLA" elementId="org.eclipse.jdt.ui.PackageExplorer" toBeRendered="false" ref="_8iui_IkxEeqqV5JCpWsbYQ" closeable="true">
+                <tags>View</tags>
+                <tags>categoryTag:Java</tags>
+              </children>
+              <children xsi:type="advanced:Placeholder" xmi:id="_tzrnUYxOEeq5Bt33UatOLA" elementId="org.eclipse.jdt.ui.TypeHierarchy" toBeRendered="false" ref="_8ivI7okxEeqqV5JCpWsbYQ" closeable="true">
+                <tags>View</tags>
+                <tags>categoryTag:Java</tags>
+              </children>
+              <children xsi:type="advanced:Placeholder" xmi:id="_tzrnUoxOEeq5Bt33UatOLA" elementId="org.eclipse.jdt.junit.ResultView" toBeRendered="false" ref="_8ivJS4kxEeqqV5JCpWsbYQ" closeable="true">
+                <tags>View</tags>
+                <tags>categoryTag:Java</tags>
+              </children>
+            </children>
+            <children xsi:type="basic:PartSashContainer" xmi:id="_tzrnU4xOEeq5Bt33UatOLA" containerData="8300" selectedElement="_tzrnXoxOEeq5Bt33UatOLA">
+              <children xsi:type="basic:PartSashContainer" xmi:id="_tzrnVIxOEeq5Bt33UatOLA" containerData="5976" selectedElement="_tzrnVYxOEeq5Bt33UatOLA" horizontal="true">
+                <children xsi:type="advanced:Placeholder" xmi:id="_tzrnVYxOEeq5Bt33UatOLA" elementId="org.eclipse.ui.editorss" containerData="8968" ref="_8iui1YkxEeqqV5JCpWsbYQ"/>
+                <children xsi:type="basic:PartStack" xmi:id="_tzrnVoxOEeq5Bt33UatOLA" elementId="org.eclipse.debug.internal.ui.OutlineFolderView" containerData="1032" selectedElement="_tzrnV4xOEeq5Bt33UatOLA">
+                  <tags>org.eclipse.e4.secondaryNavigationStack</tags>
+                  <children xsi:type="advanced:Placeholder" xmi:id="_tzrnV4xOEeq5Bt33UatOLA" elementId="org.eclipse.debug.ui.VariableView" ref="_tzcWwIxOEeq5Bt33UatOLA" closeable="true">
+                    <tags>View</tags>
+                    <tags>categoryTag:Debug</tags>
+                  </children>
+                  <children xsi:type="advanced:Placeholder" xmi:id="_tzrnWIxOEeq5Bt33UatOLA" elementId="org.eclipse.debug.ui.BreakpointView" ref="_tzc90IxOEeq5Bt33UatOLA" closeable="true">
+                    <tags>View</tags>
+                    <tags>categoryTag:Debug</tags>
+                  </children>
+                  <children xsi:type="advanced:Placeholder" xmi:id="_tzrnWYxOEeq5Bt33UatOLA" elementId="org.eclipse.debug.ui.ExpressionView" ref="_tzeL8IxOEeq5Bt33UatOLA" closeable="true">
+                    <tags>View</tags>
+                    <tags>categoryTag:Debug</tags>
+                  </children>
+                  <children xsi:type="advanced:Placeholder" xmi:id="_tzrnWoxOEeq5Bt33UatOLA" elementId="org.eclipse.ui.views.ContentOutline" toBeRendered="false" ref="_8ivJLIkxEeqqV5JCpWsbYQ" closeable="true">
+                    <tags>View</tags>
+                    <tags>categoryTag:General</tags>
+                  </children>
+                  <children xsi:type="advanced:Placeholder" xmi:id="_tzrnW4xOEeq5Bt33UatOLA" elementId="org.eclipse.ui.views.PropertySheet" toBeRendered="false" ref="_tzezAIxOEeq5Bt33UatOLA" closeable="true">
+                    <tags>View</tags>
+                    <tags>categoryTag:General</tags>
+                  </children>
+                  <children xsi:type="advanced:Placeholder" xmi:id="_tzrnXIxOEeq5Bt33UatOLA" elementId="org.eclipse.ui.views.minimap.MinimapView" toBeRendered="false" ref="_8ivJSIkxEeqqV5JCpWsbYQ" closeable="true">
+                    <tags>View</tags>
+                    <tags>categoryTag:General</tags>
+                  </children>
+                  <children xsi:type="advanced:Placeholder" xmi:id="_tzrnXYxOEeq5Bt33UatOLA" elementId="org.eclipse.ant.ui.views.AntView" toBeRendered="false" ref="_8ivJbIkxEeqqV5JCpWsbYQ" closeable="true">
+                    <tags>View</tags>
+                    <tags>categoryTag:Ant</tags>
+                  </children>
+                </children>
+              </children>
+              <children xsi:type="basic:PartStack" xmi:id="_tzrnXoxOEeq5Bt33UatOLA" elementId="org.eclipse.debug.internal.ui.ToolsFolderView" containerData="4024" selectedElement="_tzrnX4xOEeq5Bt33UatOLA">
+                <tags>active</tags>
+                <tags>noFocus</tags>
+                <children xsi:type="advanced:Placeholder" xmi:id="_tzrnX4xOEeq5Bt33UatOLA" elementId="org.eclipse.ui.console.ConsoleView" ref="_8ivJDYkxEeqqV5JCpWsbYQ" closeable="true">
+                  <tags>View</tags>
+                  <tags>categoryTag:General</tags>
+                  <tags>active</tags>
+                </children>
+                <children xsi:type="advanced:Placeholder" xmi:id="_tzrnYIxOEeq5Bt33UatOLA" elementId="org.eclipse.ui.views.ProblemView" ref="_8ivI8YkxEeqqV5JCpWsbYQ" closeable="true">
+                  <tags>View</tags>
+                  <tags>categoryTag:General</tags>
+                </children>
+                <children xsi:type="advanced:Placeholder" xmi:id="_tzrnYYxOEeq5Bt33UatOLA" elementId="org.eclipse.debug.ui.RegisterView" toBeRendered="false" ref="_tzbvsIxOEeq5Bt33UatOLA" closeable="true">
+                  <tags>View</tags>
+                  <tags>categoryTag:Debug</tags>
+                </children>
+                <children xsi:type="advanced:Placeholder" xmi:id="_tzrnYoxOEeq5Bt33UatOLA" elementId="org.eclipse.ui.views.BookmarkView" toBeRendered="false" ref="_8ivJJYkxEeqqV5JCpWsbYQ" closeable="true">
+                  <tags>View</tags>
+                  <tags>categoryTag:General</tags>
+                </children>
+                <children xsi:type="advanced:Placeholder" xmi:id="_tzrnY4xOEeq5Bt33UatOLA" elementId="org.eclipse.ui.views.ProgressView" ref="_8ivJJokxEeqqV5JCpWsbYQ" closeable="true">
+                  <tags>View</tags>
+                  <tags>categoryTag:General</tags>
+                </children>
+                <children xsi:type="advanced:Placeholder" xmi:id="_tzrnZIxOEeq5Bt33UatOLA" elementId="org.eclipse.pde.runtime.LogView" toBeRendered="false" ref="_tzkSkIxOEeq5Bt33UatOLA" closeable="true">
+                  <tags>View</tags>
+                  <tags>categoryTag:General</tags>
+                </children>
+                <children xsi:type="advanced:Placeholder" xmi:id="_tzrnZYxOEeq5Bt33UatOLA" elementId="org.eclipse.jdt.debug.ui.DisplayView" ref="_tzn88IxOEeq5Bt33UatOLA" closeable="true">
+                  <tags>View</tags>
+                  <tags>categoryTag:Debug</tags>
+                </children>
+                <children xsi:type="advanced:Placeholder" xmi:id="_tzrnZoxOEeq5Bt33UatOLA" elementId="org.eclipse.search.ui.views.SearchView" toBeRendered="false" ref="_8ivJCYkxEeqqV5JCpWsbYQ" closeable="true">
+                  <tags>View</tags>
+                  <tags>categoryTag:General</tags>
+                </children>
+                <children xsi:type="advanced:Placeholder" xmi:id="_tzrnZ4xOEeq5Bt33UatOLA" elementId="org.eclipse.tm.terminal.view.ui.TerminalsView" toBeRendered="false" ref="_8ivJSokxEeqqV5JCpWsbYQ" closeable="true">
+                  <tags>View</tags>
+                  <tags>categoryTag:Terminal</tags>
+                </children>
+              </children>
+            </children>
+          </children>
+        </children>
       </children>
       <children xsi:type="basic:PartStack" xmi:id="_8it65YkxEeqqV5JCpWsbYQ" elementId="stickyFolderRight" toBeRendered="false" containerData="2500">
         <children xsi:type="advanced:Placeholder" xmi:id="_8it65okxEeqqV5JCpWsbYQ" elementId="org.eclipse.help.ui.HelpView" toBeRendered="false" ref="_8iui0okxEeqqV5JCpWsbYQ" closeable="true">
@@ -221,237 +371,98 @@
       <tags>categoryTag:Help</tags>
     </sharedElements>
     <sharedElements xsi:type="advanced:Area" xmi:id="_8iui1YkxEeqqV5JCpWsbYQ" elementId="org.eclipse.ui.editorss" selectedElement="_8iui1okxEeqqV5JCpWsbYQ">
-      <children xsi:type="basic:PartStack" xmi:id="_8iui1okxEeqqV5JCpWsbYQ" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_eqrZEIqnEeqR5uWvNnz_PA">
+      <children xsi:type="basic:PartStack" xmi:id="_8iui1okxEeqqV5JCpWsbYQ" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_K3CxYIxmEeqQg-MJ3M3n3Q">
         <tags>org.eclipse.e4.primaryDataStack</tags>
         <tags>EditorStack</tags>
-        <tags>active</tags>
-        <children xsi:type="basic:Part" xmi:id="_8iui14kxEeqqV5JCpWsbYQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="menu[...].jsp" iconURI="platform:/plugin/com.essiembre.eclipse.rbe/icons/propertiesfile.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;com.essiembre.eclipse.rbe.ui.editor.ResourceBundleEditor&quot; name=&quot;menu.jsp&quot; partName=&quot;menu[...].jsp&quot; title=&quot;menu[...].jsp&quot; tooltip=&quot;weVideo-admin-mng/src/main/webapp/WEB-INF/center/common/menu.jsp&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/weVideo-admin-mng/src/main/webapp/WEB-INF/center/common/menu.jsp&quot;/>&#xD;&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>com.essiembre.eclipse.rbe.ui.editor.ResourceBundleEditor</tags>
-          <tags>removeOnHide</tags>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_8iui2IkxEeqqV5JCpWsbYQ" elementId="#TextEditorContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#TextEditorContext</tags>
-            <tags>popup:.EditorContext</tags>
-            <tags>popup:#AbstractTextEditorContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_8iui2YkxEeqqV5JCpWsbYQ" elementId="#TextRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#TextRulerContext</tags>
-            <tags>popup:.RulerContext</tags>
-            <tags>popup:#AbstractTextEditorRulerContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_8iui2okxEeqqV5JCpWsbYQ" elementId="#OverviewRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#OverviewRulerContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_8iui24kxEeqqV5JCpWsbYQ" elementId="#TextEditorContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#TextEditorContext</tags>
-            <tags>popup:.EditorContext</tags>
-            <tags>popup:#AbstractTextEditorContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_8iui3IkxEeqqV5JCpWsbYQ" elementId="#TextRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#TextRulerContext</tags>
-            <tags>popup:.RulerContext</tags>
-            <tags>popup:#AbstractTextEditorRulerContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_8iui3YkxEeqqV5JCpWsbYQ" elementId="#OverviewRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#OverviewRulerContext</tags>
-          </menus>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_8iui3okxEeqqV5JCpWsbYQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="HelloController.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;HelloController.java&quot; partName=&quot;HelloController.java&quot; title=&quot;HelloController.java&quot; tooltip=&quot;weVideo-admin-mng/src/main/java/com/weVideo/controller/HelloController.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/weVideo-admin-mng/src/main/java/com/weVideo/controller/HelloController.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;333&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
-          <tags>removeOnHide</tags>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_8iui34kxEeqqV5JCpWsbYQ" elementId="#CompilationUnitEditorContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#CompilationUnitEditorContext</tags>
-            <tags>popup:org.eclipse.jdt.ui.CompilationUnitEditor.EditorContext</tags>
-            <tags>popup:#AbstractTextEditorContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_8iui4IkxEeqqV5JCpWsbYQ" elementId="#CompilationUnitRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#CompilationUnitRulerContext</tags>
-            <tags>popup:org.eclipse.jdt.ui.CompilationUnitEditor.RulerContext</tags>
-            <tags>popup:#AbstractTextEditorRulerContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_8iui4YkxEeqqV5JCpWsbYQ" elementId="#OverviewRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#OverviewRulerContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_8iui4okxEeqqV5JCpWsbYQ" elementId="#CompilationUnitEditorContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#CompilationUnitEditorContext</tags>
-            <tags>popup:org.eclipse.jdt.ui.CompilationUnitEditor.EditorContext</tags>
-            <tags>popup:#AbstractTextEditorContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_8iui44kxEeqqV5JCpWsbYQ" elementId="#CompilationUnitRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#CompilationUnitRulerContext</tags>
-            <tags>popup:org.eclipse.jdt.ui.CompilationUnitEditor.RulerContext</tags>
-            <tags>popup:#AbstractTextEditorRulerContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_8iui5IkxEeqqV5JCpWsbYQ" elementId="#OverviewRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#OverviewRulerContext</tags>
-          </menus>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_8iui5YkxEeqqV5JCpWsbYQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="VideoController.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;VideoController.java&quot; partName=&quot;VideoController.java&quot; title=&quot;VideoController.java&quot; tooltip=&quot;weVideo-admin-mng/src/main/java/com/weVideo/controller/VideoController.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/weVideo-admin-mng/src/main/java/com/weVideo/controller/VideoController.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1915&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
-          <tags>removeOnHide</tags>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_8iui5okxEeqqV5JCpWsbYQ" elementId="#CompilationUnitEditorContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#CompilationUnitEditorContext</tags>
-            <tags>popup:org.eclipse.jdt.ui.CompilationUnitEditor.EditorContext</tags>
-            <tags>popup:#AbstractTextEditorContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_8iui54kxEeqqV5JCpWsbYQ" elementId="#CompilationUnitRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#CompilationUnitRulerContext</tags>
-            <tags>popup:org.eclipse.jdt.ui.CompilationUnitEditor.RulerContext</tags>
-            <tags>popup:#AbstractTextEditorRulerContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_8iui6IkxEeqqV5JCpWsbYQ" elementId="#OverviewRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#OverviewRulerContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_8iui6YkxEeqqV5JCpWsbYQ" elementId="#CompilationUnitEditorContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#CompilationUnitEditorContext</tags>
-            <tags>popup:org.eclipse.jdt.ui.CompilationUnitEditor.EditorContext</tags>
-            <tags>popup:#AbstractTextEditorContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_8iui6okxEeqqV5JCpWsbYQ" elementId="#CompilationUnitRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#CompilationUnitRulerContext</tags>
-            <tags>popup:org.eclipse.jdt.ui.CompilationUnitEditor.RulerContext</tags>
-            <tags>popup:#AbstractTextEditorRulerContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_8iui64kxEeqqV5JCpWsbYQ" elementId="#OverviewRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#OverviewRulerContext</tags>
-          </menus>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_8iui7IkxEeqqV5JCpWsbYQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="LoginInterceptor.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;LoginInterceptor.java&quot; partName=&quot;LoginInterceptor.java&quot; title=&quot;LoginInterceptor.java&quot; tooltip=&quot;weVideo-admin-mng/src/main/java/com/weVideo/interceptor/LoginInterceptor.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/weVideo-admin-mng/src/main/java/com/weVideo/interceptor/LoginInterceptor.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;754&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
-          <tags>removeOnHide</tags>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_8iui7YkxEeqqV5JCpWsbYQ" elementId="#CompilationUnitEditorContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#CompilationUnitEditorContext</tags>
-            <tags>popup:org.eclipse.jdt.ui.CompilationUnitEditor.EditorContext</tags>
-            <tags>popup:#AbstractTextEditorContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_8iui7okxEeqqV5JCpWsbYQ" elementId="#CompilationUnitRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#CompilationUnitRulerContext</tags>
-            <tags>popup:org.eclipse.jdt.ui.CompilationUnitEditor.RulerContext</tags>
-            <tags>popup:#AbstractTextEditorRulerContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_8iui74kxEeqqV5JCpWsbYQ" elementId="#OverviewRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#OverviewRulerContext</tags>
-          </menus>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_8iui8IkxEeqqV5JCpWsbYQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="MiniInterceptor.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;MiniInterceptor.java&quot; partName=&quot;MiniInterceptor.java&quot; title=&quot;MiniInterceptor.java&quot; tooltip=&quot;weVideo-videos-dev-mini-api/src/main/java/com/weVideo/controller/interceptor/MiniInterceptor.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/weVideo-videos-dev-mini-api/src/main/java/com/weVideo/controller/interceptor/MiniInterceptor.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1178&quot; selectionTopPixel=&quot;294&quot;/>&#xD;&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
-          <tags>removeOnHide</tags>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_8iui8YkxEeqqV5JCpWsbYQ" elementId="#CompilationUnitEditorContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#CompilationUnitEditorContext</tags>
-            <tags>popup:org.eclipse.jdt.ui.CompilationUnitEditor.EditorContext</tags>
-            <tags>popup:#AbstractTextEditorContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_8iui8okxEeqqV5JCpWsbYQ" elementId="#CompilationUnitRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#CompilationUnitRulerContext</tags>
-            <tags>popup:org.eclipse.jdt.ui.CompilationUnitEditor.RulerContext</tags>
-            <tags>popup:#AbstractTextEditorRulerContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_8iui84kxEeqqV5JCpWsbYQ" elementId="#OverviewRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#OverviewRulerContext</tags>
-          </menus>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_8iui9IkxEeqqV5JCpWsbYQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="RegistLoginController.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;RegistLoginController.java&quot; partName=&quot;RegistLoginController.java&quot; title=&quot;RegistLoginController.java&quot; tooltip=&quot;weVideo-videos-dev-mini-api/src/main/java/com/weVideo/controller/RegistLoginController.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/weVideo-videos-dev-mini-api/src/main/java/com/weVideo/controller/RegistLoginController.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1710&quot; selectionTopPixel=&quot;720&quot;/>&#xD;&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
-          <tags>removeOnHide</tags>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_8iui9YkxEeqqV5JCpWsbYQ" elementId="#CompilationUnitEditorContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#CompilationUnitEditorContext</tags>
-            <tags>popup:org.eclipse.jdt.ui.CompilationUnitEditor.EditorContext</tags>
-            <tags>popup:#AbstractTextEditorContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_8iui9okxEeqqV5JCpWsbYQ" elementId="#CompilationUnitRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#CompilationUnitRulerContext</tags>
-            <tags>popup:org.eclipse.jdt.ui.CompilationUnitEditor.RulerContext</tags>
-            <tags>popup:#AbstractTextEditorRulerContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_8iui94kxEeqqV5JCpWsbYQ" elementId="#OverviewRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#OverviewRulerContext</tags>
-          </menus>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_8iui-IkxEeqqV5JCpWsbYQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="RedisOperator.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;RedisOperator.java&quot; partName=&quot;RedisOperator.java&quot; title=&quot;RedisOperator.java&quot; tooltip=&quot;weVideo-videos-common/src/main/java/com/weVideo/utils/RedisOperator.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/weVideo-videos-common/src/main/java/com/weVideo/utils/RedisOperator.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;557&quot; selectionTopPixel=&quot;142&quot;/>&#xD;&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
-          <tags>removeOnHide</tags>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_8iui-YkxEeqqV5JCpWsbYQ" elementId="#CompilationUnitEditorContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#CompilationUnitEditorContext</tags>
-            <tags>popup:org.eclipse.jdt.ui.CompilationUnitEditor.EditorContext</tags>
-            <tags>popup:#AbstractTextEditorContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_8iui-okxEeqqV5JCpWsbYQ" elementId="#CompilationUnitRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#CompilationUnitRulerContext</tags>
-            <tags>popup:org.eclipse.jdt.ui.CompilationUnitEditor.RulerContext</tags>
-            <tags>popup:#AbstractTextEditorRulerContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_8iui-4kxEeqqV5JCpWsbYQ" elementId="#OverviewRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#OverviewRulerContext</tags>
-          </menus>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_GdrpkIqnEeqR5uWvNnz_PA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="VideoServiceImpl.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;VideoServiceImpl.java&quot; partName=&quot;VideoServiceImpl.java&quot; title=&quot;VideoServiceImpl.java&quot; tooltip=&quot;weVideo-videos-dev-service/src/main/java/com/weVideo/serviceImpl/VideoServiceImpl.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/weVideo-videos-dev-service/src/main/java/com/weVideo/serviceImpl/VideoServiceImpl.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;50&quot; selectionOffset=&quot;1647&quot; selectionTopPixel=&quot;835&quot;/>&#xD;&#xA;&lt;/editor>"/>
+        <children xsi:type="basic:Part" xmi:id="_cx7ncIxXEeqByPnnRTyUFA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="BgmController.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;BgmController.java&quot; partName=&quot;BgmController.java&quot; title=&quot;BgmController.java&quot; tooltip=&quot;weVideo-videos-dev-mini-api/src/main/java/com/weVideo/controller/BgmController.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/weVideo-videos-dev-mini-api/src/main/java/com/weVideo/controller/BgmController.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;781&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
           <tags>removeOnHide</tags>
         </children>
-        <children xsi:type="basic:Part" xmi:id="_Vz6zwIqnEeqR5uWvNnz_PA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="CommentsMapperCustom.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CommentsMapperCustom.java&quot; partName=&quot;CommentsMapperCustom.java&quot; title=&quot;CommentsMapperCustom.java&quot; tooltip=&quot;weVideo-videos-dev-mapper/src/main/java/com/weVideo/mapper/CommentsMapperCustom.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/weVideo-videos-dev-mapper/src/main/java/com/weVideo/mapper/CommentsMapperCustom.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;299&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+        <children xsi:type="basic:Part" xmi:id="_eY5lQIxXEeqByPnnRTyUFA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="BgmService.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;BgmService.java&quot; partName=&quot;BgmService.java&quot; title=&quot;BgmService.java&quot; tooltip=&quot;weVideo-videos-dev-service/src/main/java/com/weVideo/service/BgmService.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/weVideo-videos-dev-service/src/main/java/com/weVideo/service/BgmService.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;147&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
           <tags>removeOnHide</tags>
         </children>
-        <children xsi:type="basic:Part" xmi:id="_cco0MIqnEeqR5uWvNnz_PA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="VideosMapperCustom.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;VideosMapperCustom.java&quot; partName=&quot;VideosMapperCustom.java&quot; title=&quot;VideosMapperCustom.java&quot; tooltip=&quot;weVideo-videos-dev-mapper/src/main/java/com/weVideo/mapper/VideosMapperCustom.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/weVideo-videos-dev-mapper/src/main/java/com/weVideo/mapper/VideosMapperCustom.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;0&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+        <children xsi:type="basic:Part" xmi:id="_f9Zd4IxXEeqByPnnRTyUFA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="BgmServiceImpl.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;BgmServiceImpl.java&quot; partName=&quot;BgmServiceImpl.java&quot; title=&quot;BgmServiceImpl.java&quot; tooltip=&quot;weVideo-videos-dev-service/src/main/java/com/weVideo/serviceImpl/BgmServiceImpl.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/weVideo-videos-dev-service/src/main/java/com/weVideo/serviceImpl/BgmServiceImpl.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;588&quot; selectionTopPixel=&quot;103&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
           <tags>removeOnHide</tags>
         </children>
-        <children xsi:type="basic:Part" xmi:id="_eqrZEIqnEeqR5uWvNnz_PA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="CommentsMapperCustom.xml" iconURI="platform:/plugin/org.eclipse.wst.xml.ui/icons/xmldoc.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart&quot; name=&quot;CommentsMapperCustom.xml&quot; partName=&quot;CommentsMapperCustom.xml&quot; title=&quot;CommentsMapperCustom.xml&quot; tooltip=&quot;weVideo-videos-dev-mini-api/src/main/resources/mapper/CommentsMapperCustom.xml&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/weVideo-videos-dev-mini-api/src/main/resources/mapper/CommentsMapperCustom.xml&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1314&quot; selectionTopPixel=&quot;163&quot;/>&#xD;&#xA;&lt;/editor>"/>
+        <children xsi:type="basic:Part" xmi:id="_92050IxZEeqByPnnRTyUFA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="WebMvcConfig.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;WebMvcConfig.java&quot; partName=&quot;WebMvcConfig.java&quot; title=&quot;WebMvcConfig.java&quot; tooltip=&quot;weVideo-videos-dev-mini-api/src/main/java/com/weVideo/WebMvcConfig.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/weVideo-videos-dev-mini-api/src/main/java/com/weVideo/WebMvcConfig.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;20&quot; selectionOffset=&quot;736&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
-          <tags>org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart</tags>
+          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
           <tags>removeOnHide</tags>
-          <tags>active</tags>
-          <tags>activeOnClose</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_pj-2QIxaEeqByPnnRTyUFA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="weVideo-videos-dev-mini-api/pom.xml" iconURI="platform:/plugin/org.eclipse.m2e.editor/icons/editor-pom.gif" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.m2e.editor.MavenPomEditor&quot; name=&quot;pom.xml&quot; partName=&quot;weVideo-videos-dev-mini-api/pom.xml&quot; title=&quot;weVideo-videos-dev-mini-api/pom.xml&quot; tooltip=&quot;weVideo-videos-dev-mini-api/pom.xml&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/weVideo-videos-dev-mini-api/pom.xml&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>org.eclipse.m2e.editor.MavenPomEditor</tags>
+          <tags>removeOnHide</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_qK_y8IxaEeqByPnnRTyUFA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="weVideo-videos-dev-mapper/pom.xml" iconURI="platform:/plugin/org.eclipse.m2e.editor/icons/editor-pom.gif" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.m2e.editor.MavenPomEditor&quot; name=&quot;pom.xml&quot; partName=&quot;weVideo-videos-dev-mapper/pom.xml&quot; title=&quot;weVideo-videos-dev-mapper/pom.xml&quot; tooltip=&quot;weVideo-videos-dev-mapper/pom.xml&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/weVideo-videos-dev-mapper/pom.xml&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>org.eclipse.m2e.editor.MavenPomEditor</tags>
+          <tags>removeOnHide</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_t5MjAIxaEeqByPnnRTyUFA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="weVideo-videos-common/pom.xml" iconURI="platform:/plugin/org.eclipse.m2e.editor/icons/editor-pom.gif" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.m2e.editor.MavenPomEditor&quot; name=&quot;pom.xml&quot; partName=&quot;weVideo-videos-common/pom.xml&quot; title=&quot;weVideo-videos-common/pom.xml&quot; tooltip=&quot;weVideo-videos-common/pom.xml&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/weVideo-videos-common/pom.xml&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>org.eclipse.m2e.editor.MavenPomEditor</tags>
+          <tags>removeOnHide</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_M__J8IxdEeqBSbeXnhrCEg" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="JsonUtils.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;JsonUtils.java&quot; partName=&quot;JsonUtils.java&quot; title=&quot;JsonUtils.java&quot; tooltip=&quot;weVideo-videos-common/src/main/java/com/weVideo/utils/JsonUtils.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/weVideo-videos-common/src/main/java/com/weVideo/utils/JsonUtils.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;255&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
+          <tags>removeOnHide</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_cDvdAIxdEeqBSbeXnhrCEg" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="BgmMapper.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;BgmMapper.java&quot; partName=&quot;BgmMapper.java&quot; title=&quot;BgmMapper.java&quot; tooltip=&quot;weVideo-videos-dev-mapper/src/main/java/com/weVideo/mapper/BgmMapper.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/weVideo-videos-dev-mapper/src/main/java/com/weVideo/mapper/BgmMapper.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;152&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
+          <tags>removeOnHide</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_PkXY8IxiEeqQg-MJ3M3n3Q" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="Application.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Application.java&quot; partName=&quot;Application.java&quot; title=&quot;Application.java&quot; tooltip=&quot;weVideo-videos-dev-mini-api/src/main/java/com/weVideo/Application.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/weVideo-videos-dev-mini-api/src/main/java/com/weVideo/Application.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;457&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
+          <tags>removeOnHide</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_KnhusIxmEeqQg-MJ3M3n3Q" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="UserController.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;UserController.java&quot; partName=&quot;UserController.java&quot; title=&quot;UserController.java&quot; tooltip=&quot;weVideo-videos-dev-mini-api/src/main/java/com/weVideo/controller/UserController.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/weVideo-videos-dev-mini-api/src/main/java/com/weVideo/controller/UserController.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;0&quot; selectionTopPixel=&quot;84&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
+          <tags>removeOnHide</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_K3CxYIxmEeqQg-MJ3M3n3Q" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="VideoController.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;VideoController.java&quot; partName=&quot;VideoController.java&quot; title=&quot;VideoController.java&quot; tooltip=&quot;weVideo-videos-dev-mini-api/src/main/java/com/weVideo/controller/VideoController.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/weVideo-videos-dev-mini-api/src/main/java/com/weVideo/controller/VideoController.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;5147&quot; selectionTopPixel=&quot;2940&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
+          <tags>removeOnHide</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_gNusAIxvEeqQg-MJ3M3n3Q" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="VideoServiceImpl.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;VideoServiceImpl.java&quot; partName=&quot;VideoServiceImpl.java&quot; title=&quot;VideoServiceImpl.java&quot; tooltip=&quot;weVideo-videos-dev-service/src/main/java/com/weVideo/serviceImpl/VideoServiceImpl.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/weVideo-videos-dev-service/src/main/java/com/weVideo/serviceImpl/VideoServiceImpl.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;2867&quot; selectionTopPixel=&quot;1554&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
+          <tags>removeOnHide</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_7qYOYIxvEeqQg-MJ3M3n3Q" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="VideoService.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;VideoService.java&quot; partName=&quot;VideoService.java&quot; title=&quot;VideoService.java&quot; tooltip=&quot;weVideo-videos-dev-service/src/main/java/com/weVideo/service/VideoService.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/weVideo-videos-dev-service/src/main/java/com/weVideo/service/VideoService.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;323&quot; selectionTopPixel=&quot;311&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
+          <tags>removeOnHide</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="__1WV0Ix2EeqQg-MJ3M3n3Q" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="MergeVideoMp3.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;MergeVideoMp3.java&quot; partName=&quot;MergeVideoMp3.java&quot; title=&quot;MergeVideoMp3.java&quot; tooltip=&quot;weVideo-videos-common/src/main/java/com/weVideo/utils/MergeVideoMp3.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/weVideo-videos-common/src/main/java/com/weVideo/utils/MergeVideoMp3.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;2604&quot; selectionTopPixel=&quot;1702&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
+          <tags>removeOnHide</tags>
         </children>
       </children>
     </sharedElements>
@@ -464,6 +475,57 @@
       <menus xmi:id="_8iui_YkxEeqqV5JCpWsbYQ" elementId="org.eclipse.jdt.ui.PackageExplorer">
         <tags>ViewMenu</tags>
         <tags>menuContribution:menu</tags>
+        <children xsi:type="menu:Menu" xmi:id="_FAFoEIxFEeq5Bt33UatOLA" label="&amp;Top Level Elements">
+          <tags>Opaque</tags>
+          <children xsi:type="menu:DirectMenuItem" xmi:id="_FAGPIIxFEeq5Bt33UatOLA">
+            <tags>Opaque</tags>
+          </children>
+          <children xsi:type="menu:DirectMenuItem" xmi:id="_FAGPIYxFEeq5Bt33UatOLA">
+            <tags>Opaque</tags>
+          </children>
+        </children>
+        <children xsi:type="menu:MenuSeparator" xmi:id="_FAGPIoxFEeq5Bt33UatOLA" elementId="working_set_action_group">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:DirectMenuItem" xmi:id="_FAGPI4xFEeq5Bt33UatOLA">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:MenuSeparator" xmi:id="_FAGPJIxFEeq5Bt33UatOLA" elementId="filters">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:MenuSeparator" xmi:id="_FAGPJYxFEeq5Bt33UatOLA" elementId="recentFiltersGroup" visible="false">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:DirectMenuItem" xmi:id="_FAGPJoxFEeq5Bt33UatOLA">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:MenuSeparator" xmi:id="_FAGPJ4xFEeq5Bt33UatOLA" elementId="layout">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:Menu" xmi:id="_FAGPKIxFEeq5Bt33UatOLA" label="&amp;Package Presentation">
+          <tags>Opaque</tags>
+          <children xsi:type="menu:DirectMenuItem" xmi:id="_FAGPKYxFEeq5Bt33UatOLA">
+            <tags>Opaque</tags>
+          </children>
+          <children xsi:type="menu:DirectMenuItem" xmi:id="_FAG2MIxFEeq5Bt33UatOLA">
+            <tags>Opaque</tags>
+          </children>
+        </children>
+        <children xsi:type="menu:DirectMenuItem" xmi:id="_FAG2MYxFEeq5Bt33UatOLA">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:MenuSeparator" xmi:id="_FAG2MoxFEeq5Bt33UatOLA">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:DirectMenuItem" xmi:id="_FAG2M4xFEeq5Bt33UatOLA">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:MenuSeparator" xmi:id="_FAG2NIxFEeq5Bt33UatOLA" elementId="additions">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:MenuSeparator" xmi:id="_FAG2NYxFEeq5Bt33UatOLA" elementId="additions-end">
+          <tags>Opaque</tags>
+        </children>
       </menus>
       <menus xsi:type="menu:PopupMenu" xmi:id="_8iujD4kxEeqqV5JCpWsbYQ" elementId="org.eclipse.jdt.ui.PackageExplorer">
         <tags>menuContribution:popup</tags>
@@ -525,7 +587,279 @@
         <tags>menuContribution:popup</tags>
         <tags>popup:org.eclipse.jdt.ui.PackageExplorer</tags>
       </menus>
-      <toolbar xmi:id="_8ivI6okxEeqqV5JCpWsbYQ" elementId="org.eclipse.jdt.ui.PackageExplorer"/>
+      <menus xsi:type="menu:PopupMenu" xmi:id="_E7T1wIxFEeq5Bt33UatOLA" elementId="org.eclipse.jdt.ui.PackageExplorer">
+        <tags>menuContribution:popup</tags>
+        <tags>popup:org.eclipse.jdt.ui.PackageExplorer</tags>
+        <children xsi:type="menu:MenuSeparator" xmi:id="_8ftzYIxNEeq5Bt33UatOLA" elementId="group.new">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:Menu" xmi:id="_8fw2sIxNEeq5Bt33UatOLA" label="Ne&amp;w">
+          <tags>Opaque</tags>
+          <children xsi:type="menu:DirectMenuItem" xmi:id="_8fw2sYxNEeq5Bt33UatOLA">
+            <tags>Opaque</tags>
+          </children>
+        </children>
+        <children xsi:type="menu:MenuSeparator" xmi:id="_8gVecIxNEeq5Bt33UatOLA" elementId="group.goto" visible="false">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:MenuSeparator" xmi:id="_8gWFgIxNEeq5Bt33UatOLA" elementId="group.open">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:DirectMenuItem" xmi:id="_8gWFgYxNEeq5Bt33UatOLA">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:Menu" xmi:id="_8gWFgoxNEeq5Bt33UatOLA" label="Open Wit&amp;h">
+          <tags>Opaque</tags>
+          <children xsi:type="menu:DirectMenuItem" xmi:id="_8gWFg4xNEeq5Bt33UatOLA" elementId="org.eclipse.ui.OpenWithMenu">
+            <tags>Opaque</tags>
+          </children>
+        </children>
+        <children xsi:type="menu:DirectMenuItem" xmi:id="_8gXToIxNEeq5Bt33UatOLA">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:Menu" xmi:id="_8gX6sIxNEeq5Bt33UatOLA" label="Sho&amp;w In&#x9;Alt+Shift+W">
+          <tags>Opaque</tags>
+          <children xsi:type="menu:DirectMenuItem" xmi:id="_8gX6sYxNEeq5Bt33UatOLA" elementId="viewsShowIn">
+            <tags>Opaque</tags>
+          </children>
+        </children>
+        <children xsi:type="menu:MenuSeparator" xmi:id="_8gwVMIxNEeq5Bt33UatOLA" elementId="group.show" visible="false">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:MenuSeparator" xmi:id="_8gwVMYxNEeq5Bt33UatOLA" elementId="group.edit">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:DirectMenuItem" xmi:id="_8gwVMoxNEeq5Bt33UatOLA">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:DirectMenuItem" xmi:id="_8gwVM4xNEeq5Bt33UatOLA">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:DirectMenuItem" xmi:id="_8gw8QIxNEeq5Bt33UatOLA" elementId="org.eclipse.jdt.internal.ui.refactoring.reorg.PasteAction.id">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:DirectMenuItem" xmi:id="_8gw8QYxNEeq5Bt33UatOLA">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:MenuSeparator" xmi:id="_8gw8QoxNEeq5Bt33UatOLA" elementId="group.reorganize">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:Menu" xmi:id="_8gw8Q4xNEeq5Bt33UatOLA" elementId="org.eclipse.jdt.ui.buildpath.menu" label="&amp;Build Path">
+          <tags>Opaque</tags>
+          <children xsi:type="menu:DirectMenuItem" xmi:id="_8gw8RIxNEeq5Bt33UatOLA" elementId="16">
+            <tags>Opaque</tags>
+          </children>
+        </children>
+        <children xsi:type="menu:Menu" xmi:id="_8g0moIxNEeq5Bt33UatOLA" elementId="org.eclipse.jdt.ui.source.menu" label="&amp;Source&#x9;Alt+Shift+S">
+          <tags>Opaque</tags>
+          <children xsi:type="menu:MenuSeparator" xmi:id="_8g0moYxNEeq5Bt33UatOLA" elementId="commentGroup">
+            <tags>Opaque</tags>
+          </children>
+          <children xsi:type="menu:MenuSeparator" xmi:id="_8g1NsIxNEeq5Bt33UatOLA" elementId="editGroup">
+            <tags>Opaque</tags>
+          </children>
+          <children xsi:type="menu:DirectMenuItem" xmi:id="_8g1NsYxNEeq5Bt33UatOLA">
+            <tags>Opaque</tags>
+          </children>
+          <children xsi:type="menu:MenuSeparator" xmi:id="_8g10wIxNEeq5Bt33UatOLA" elementId="importGroup">
+            <tags>Opaque</tags>
+          </children>
+          <children xsi:type="menu:DirectMenuItem" xmi:id="_8g10wYxNEeq5Bt33UatOLA">
+            <tags>Opaque</tags>
+          </children>
+          <children xsi:type="menu:DirectMenuItem" xmi:id="_8g10woxNEeq5Bt33UatOLA">
+            <tags>Opaque</tags>
+          </children>
+          <children xsi:type="menu:DirectMenuItem" xmi:id="_8g10w4xNEeq5Bt33UatOLA">
+            <tags>Opaque</tags>
+          </children>
+          <children xsi:type="menu:MenuSeparator" xmi:id="_8g10xIxNEeq5Bt33UatOLA" elementId="generateGroup">
+            <tags>Opaque</tags>
+          </children>
+          <children xsi:type="menu:DirectMenuItem" xmi:id="_8g10xYxNEeq5Bt33UatOLA">
+            <tags>Opaque</tags>
+          </children>
+          <children xsi:type="menu:DirectMenuItem" xmi:id="_8g10xoxNEeq5Bt33UatOLA">
+            <tags>Opaque</tags>
+          </children>
+          <children xsi:type="menu:DirectMenuItem" xmi:id="_8g10x4xNEeq5Bt33UatOLA">
+            <tags>Opaque</tags>
+          </children>
+          <children xsi:type="menu:DirectMenuItem" xmi:id="_8g2b0IxNEeq5Bt33UatOLA">
+            <tags>Opaque</tags>
+          </children>
+          <children xsi:type="menu:DirectMenuItem" xmi:id="_8g2b0YxNEeq5Bt33UatOLA">
+            <tags>Opaque</tags>
+          </children>
+          <children xsi:type="menu:DirectMenuItem" xmi:id="_8g2b0oxNEeq5Bt33UatOLA">
+            <tags>Opaque</tags>
+          </children>
+          <children xsi:type="menu:DirectMenuItem" xmi:id="_8g2b04xNEeq5Bt33UatOLA">
+            <tags>Opaque</tags>
+          </children>
+          <children xsi:type="menu:MenuSeparator" xmi:id="_8g2b1IxNEeq5Bt33UatOLA" elementId="codeGroup">
+            <tags>Opaque</tags>
+          </children>
+          <children xsi:type="menu:MenuSeparator" xmi:id="_8g2b1YxNEeq5Bt33UatOLA" elementId="externalizeGroup">
+            <tags>Opaque</tags>
+          </children>
+          <children xsi:type="menu:DirectMenuItem" xmi:id="_8g2b1oxNEeq5Bt33UatOLA">
+            <tags>Opaque</tags>
+          </children>
+          <children xsi:type="menu:DirectMenuItem" xmi:id="_8g2b14xNEeq5Bt33UatOLA">
+            <tags>Opaque</tags>
+          </children>
+        </children>
+        <children xsi:type="menu:Menu" xmi:id="_8g2b2IxNEeq5Bt33UatOLA" elementId="org.eclipse.jdt.ui.refactoring.menu" label="Refac&amp;tor&#x9;Alt+Shift+T">
+          <tags>Opaque</tags>
+          <children xsi:type="menu:MenuSeparator" xmi:id="_8g3C4IxNEeq5Bt33UatOLA" elementId="reorgGroup">
+            <tags>Opaque</tags>
+          </children>
+          <children xsi:type="menu:DirectMenuItem" xmi:id="_8g3C4YxNEeq5Bt33UatOLA">
+            <tags>Opaque</tags>
+          </children>
+          <children xsi:type="menu:DirectMenuItem" xmi:id="_8g3C4oxNEeq5Bt33UatOLA">
+            <tags>Opaque</tags>
+          </children>
+          <children xsi:type="menu:MenuSeparator" xmi:id="_8g3C44xNEeq5Bt33UatOLA" elementId="codingGroup">
+            <tags>Opaque</tags>
+          </children>
+          <children xsi:type="menu:MenuSeparator" xmi:id="_8g3C5IxNEeq5Bt33UatOLA" elementId="reorgGroup2">
+            <tags>Opaque</tags>
+          </children>
+          <children xsi:type="menu:MenuSeparator" xmi:id="_8g3C5YxNEeq5Bt33UatOLA" elementId="typeGroup">
+            <tags>Opaque</tags>
+          </children>
+          <children xsi:type="menu:DirectMenuItem" xmi:id="_8g3C5oxNEeq5Bt33UatOLA">
+            <tags>Opaque</tags>
+          </children>
+          <children xsi:type="menu:DirectMenuItem" xmi:id="_8g3p8IxNEeq5Bt33UatOLA">
+            <tags>Opaque</tags>
+          </children>
+          <children xsi:type="menu:DirectMenuItem" xmi:id="_8g3p8YxNEeq5Bt33UatOLA">
+            <tags>Opaque</tags>
+          </children>
+          <children xsi:type="menu:DirectMenuItem" xmi:id="_8g3p8oxNEeq5Bt33UatOLA">
+            <tags>Opaque</tags>
+          </children>
+          <children xsi:type="menu:DirectMenuItem" xmi:id="_8g3p84xNEeq5Bt33UatOLA">
+            <tags>Opaque</tags>
+          </children>
+          <children xsi:type="menu:MenuSeparator" xmi:id="_8g3p9IxNEeq5Bt33UatOLA" elementId="typeGroup2">
+            <tags>Opaque</tags>
+          </children>
+          <children xsi:type="menu:DirectMenuItem" xmi:id="_8g3p9YxNEeq5Bt33UatOLA">
+            <tags>Opaque</tags>
+          </children>
+          <children xsi:type="menu:MenuSeparator" xmi:id="_8g3p9oxNEeq5Bt33UatOLA" elementId="codingGroup2">
+            <tags>Opaque</tags>
+          </children>
+          <children xsi:type="menu:MenuSeparator" xmi:id="_8g3p94xNEeq5Bt33UatOLA" elementId="typeGroup3">
+            <tags>Opaque</tags>
+          </children>
+          <children xsi:type="menu:DirectMenuItem" xmi:id="_8g3p-IxNEeq5Bt33UatOLA">
+            <tags>Opaque</tags>
+          </children>
+        </children>
+        <children xsi:type="menu:MenuSeparator" xmi:id="_8g4RAIxNEeq5Bt33UatOLA" elementId="group.import">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:DirectMenuItem" xmi:id="_8g4RAYxNEeq5Bt33UatOLA" elementId="import">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:DirectMenuItem" xmi:id="_8g4RAoxNEeq5Bt33UatOLA" elementId="export">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:MenuSeparator" xmi:id="_8g4RA4xNEeq5Bt33UatOLA" elementId="group.generate">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:MenuSeparator" xmi:id="_8g4RBIxNEeq5Bt33UatOLA" elementId="group.search">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:Menu" xmi:id="_8g4RBYxNEeq5Bt33UatOLA" elementId="group.search" label="Re&amp;ferences">
+          <tags>Opaque</tags>
+          <children xsi:type="menu:DirectMenuItem" xmi:id="_8g4RBoxNEeq5Bt33UatOLA">
+            <tags>Opaque</tags>
+          </children>
+          <children xsi:type="menu:DirectMenuItem" xmi:id="_8g77YIxNEeq5Bt33UatOLA">
+            <tags>Opaque</tags>
+          </children>
+          <children xsi:type="menu:DirectMenuItem" xmi:id="_8g8icIxNEeq5Bt33UatOLA">
+            <tags>Opaque</tags>
+          </children>
+          <children xsi:type="menu:MenuSeparator" xmi:id="_8g8icYxNEeq5Bt33UatOLA">
+            <tags>Opaque</tags>
+          </children>
+          <children xsi:type="menu:DirectMenuItem" xmi:id="_8g8icoxNEeq5Bt33UatOLA">
+            <tags>Opaque</tags>
+          </children>
+        </children>
+        <children xsi:type="menu:Menu" xmi:id="_8g8ic4xNEeq5Bt33UatOLA" elementId="group.search" label="Dec&amp;larations">
+          <tags>Opaque</tags>
+          <children xsi:type="menu:DirectMenuItem" xmi:id="_8g8idIxNEeq5Bt33UatOLA">
+            <tags>Opaque</tags>
+          </children>
+          <children xsi:type="menu:DirectMenuItem" xmi:id="_8g_lwIxNEeq5Bt33UatOLA">
+            <tags>Opaque</tags>
+          </children>
+          <children xsi:type="menu:MenuSeparator" xmi:id="_8g_lwYxNEeq5Bt33UatOLA">
+            <tags>Opaque</tags>
+          </children>
+          <children xsi:type="menu:DirectMenuItem" xmi:id="_8g_lwoxNEeq5Bt33UatOLA">
+            <tags>Opaque</tags>
+          </children>
+        </children>
+        <children xsi:type="menu:Menu" xmi:id="_8g_lw4xNEeq5Bt33UatOLA" elementId="group.search" visible="false" label="&amp;Implementors">
+          <tags>Opaque</tags>
+          <children xsi:type="menu:MenuSeparator" xmi:id="_8hAM0IxNEeq5Bt33UatOLA">
+            <tags>Opaque</tags>
+          </children>
+        </children>
+        <children xsi:type="menu:Menu" xmi:id="_8hAM0YxNEeq5Bt33UatOLA" elementId="group.search" visible="false" label="&amp;Read Access">
+          <tags>Opaque</tags>
+          <children xsi:type="menu:MenuSeparator" xmi:id="_8hAM0oxNEeq5Bt33UatOLA">
+            <tags>Opaque</tags>
+          </children>
+        </children>
+        <children xsi:type="menu:Menu" xmi:id="_8hAM04xNEeq5Bt33UatOLA" elementId="group.search" visible="false" label="&amp;Write Access">
+          <tags>Opaque</tags>
+          <children xsi:type="menu:MenuSeparator" xmi:id="_8hAM1IxNEeq5Bt33UatOLA">
+            <tags>Opaque</tags>
+          </children>
+        </children>
+        <children xsi:type="menu:MenuSeparator" xmi:id="_8hAM1YxNEeq5Bt33UatOLA" elementId="group.build">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:DirectMenuItem" xmi:id="_8hAM1oxNEeq5Bt33UatOLA">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:DirectMenuItem" xmi:id="_8hAM14xNEeq5Bt33UatOLA">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:MenuSeparator" xmi:id="_8hAz4IxNEeq5Bt33UatOLA" elementId="additions">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:MenuSeparator" xmi:id="_8hAz4YxNEeq5Bt33UatOLA" elementId="group.viewerSetup">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:MenuSeparator" xmi:id="_8hAz4oxNEeq5Bt33UatOLA" elementId="group.properties">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:DirectMenuItem" xmi:id="_8hAz44xNEeq5Bt33UatOLA">
+          <tags>Opaque</tags>
+        </children>
+      </menus>
+      <toolbar xmi:id="_8ivI6okxEeqqV5JCpWsbYQ" elementId="org.eclipse.jdt.ui.PackageExplorer">
+        <children xsi:type="menu:DirectToolItem" xmi:id="_FAG2NoxFEeq5Bt33UatOLA" elementId="FRAME_ACTION_GROUP_ID" visible="false">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:DirectToolItem" xmi:id="_FAG2N4xFEeq5Bt33UatOLA">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:DirectToolItem" xmi:id="_FAG2OIxFEeq5Bt33UatOLA">
+          <tags>Opaque</tags>
+        </children>
+      </toolbar>
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_8ivI7okxEeqqV5JCpWsbYQ" elementId="org.eclipse.jdt.ui.TypeHierarchy" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Type Hierarchy" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/eview16/class_hi.png" tooltip="" closeable="true">
       <persistedState key="originalCompatibilityViewClass" value="org.eclipse.jdt.internal.ui.typehierarchy.TypeHierarchyViewPart"/>
@@ -542,13 +876,23 @@
     <sharedElements xsi:type="basic:Part" xmi:id="_8ivI8IkxEeqqV5JCpWsbYQ" elementId="org.eclipse.ui.navigator.ProjectExplorer" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Project Explorer" iconURI="platform:/plugin/org.eclipse.ui.navigator.resources/icons/full/eview16/resource_persp.png" tooltip="" closeable="true">
       <persistedState key="originalCompatibilityViewClass" value="org.eclipse.ui.navigator.resources.ProjectExplorer"/>
       <persistedState key="originalCompatibilityViewBundle" value="org.eclipse.ui.navigator.resources"/>
+      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view CommonNavigator.LINKING_ENABLED=&quot;0&quot; org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets=&quot;0&quot;>&#xD;&#xA;&lt;lastRecentlyUsedFilters/>&#xD;&#xA;&lt;/view>"/>
       <tags>View</tags>
       <tags>categoryTag:General</tags>
+      <menus xmi:id="_ptGXAIxPEeq5Bt33UatOLA" elementId="org.eclipse.ui.navigator.ProjectExplorer">
+        <tags>ViewMenu</tags>
+        <tags>menuContribution:menu</tags>
+      </menus>
+      <menus xsi:type="menu:PopupMenu" xmi:id="_px2UIIxPEeq5Bt33UatOLA" elementId="org.eclipse.ui.navigator.ProjectExplorer#PopupMenu">
+        <tags>menuContribution:popup</tags>
+        <tags>popup:org.eclipse.ui.navigator.ProjectExplorer#PopupMenu</tags>
+      </menus>
+      <toolbar xmi:id="_ptGXAYxPEeq5Bt33UatOLA" elementId="org.eclipse.ui.navigator.ProjectExplorer"/>
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_8ivI8YkxEeqqV5JCpWsbYQ" elementId="org.eclipse.ui.views.ProblemView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Problems" iconURI="platform:/plugin/org.eclipse.ui.ide/icons/full/eview16/problems_view.png" tooltip="" closeable="true">
       <persistedState key="originalCompatibilityViewClass" value="org.eclipse.ui.internal.views.markers.ProblemsView"/>
       <persistedState key="originalCompatibilityViewBundle" value="org.eclipse.ui.ide"/>
-      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view PRIMARY_SORT_FIELD=&quot;org.eclipse.ui.ide.severityAndDescriptionField&quot; categoryGroup=&quot;org.eclipse.ui.ide.severity&quot; markerContentGenerator=&quot;org.eclipse.ui.ide.problemsGenerator&quot; partName=&quot;Problems&quot;>&#xD;&#xA;&lt;columnWidths org.eclipse.ui.ide.locationField=&quot;90&quot; org.eclipse.ui.ide.markerType=&quot;90&quot; org.eclipse.ui.ide.pathField=&quot;120&quot; org.eclipse.ui.ide.resourceField=&quot;90&quot; org.eclipse.ui.ide.severityAndDescriptionField=&quot;300&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.severityAndDescriptionField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.resourceField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.pathField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.locationField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.markerType&quot;/>&#xD;&#xA;&lt;/view>"/>
+      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view PRIMARY_SORT_FIELD=&quot;org.eclipse.ui.ide.severityAndDescriptionField&quot; categoryGroup=&quot;org.eclipse.ui.ide.severity&quot; markerContentGenerator=&quot;org.eclipse.ui.ide.problemsGenerator&quot; partName=&quot;Problems&quot;>&#xD;&#xA;&lt;expanded>&#xD;&#xA;&lt;category IMemento.internal.id=&quot;Errors&quot;/>&#xD;&#xA;&lt;category IMemento.internal.id=&quot;Warnings&quot;/>&#xD;&#xA;&lt;/expanded>&#xD;&#xA;&lt;columnWidths org.eclipse.ui.ide.locationField=&quot;90&quot; org.eclipse.ui.ide.markerType=&quot;90&quot; org.eclipse.ui.ide.pathField=&quot;120&quot; org.eclipse.ui.ide.resourceField=&quot;90&quot; org.eclipse.ui.ide.severityAndDescriptionField=&quot;300&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.severityAndDescriptionField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.resourceField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.pathField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.locationField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.markerType&quot;/>&#xD;&#xA;&lt;/view>"/>
       <tags>View</tags>
       <tags>categoryTag:General</tags>
       <menus xmi:id="_8ivI8okxEeqqV5JCpWsbYQ" elementId="org.eclipse.ui.views.ProblemView">
@@ -620,6 +964,11 @@
         <tags>popup:org.eclipse.ui.views.ProblemView</tags>
         <tags>popup:org.eclipse.ui.ide.MarkersView</tags>
       </menus>
+      <menus xsi:type="menu:PopupMenu" xmi:id="_QIP5MIxOEeq5Bt33UatOLA" elementId="org.eclipse.ui.views.ProblemView">
+        <tags>menuContribution:popup</tags>
+        <tags>popup:org.eclipse.ui.views.ProblemView</tags>
+        <tags>popup:org.eclipse.ui.ide.MarkersView</tags>
+      </menus>
       <toolbar xmi:id="_8ivJAIkxEeqqV5JCpWsbYQ" elementId="org.eclipse.ui.views.ProblemView" visible="false"/>
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_8ivJAYkxEeqqV5JCpWsbYQ" elementId="org.eclipse.jdt.ui.JavadocView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Javadoc" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/eview16/javadoc.png" tooltip="" closeable="true">
@@ -676,6 +1025,8 @@
       <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view/>"/>
       <tags>View</tags>
       <tags>categoryTag:General</tags>
+      <tags>active</tags>
+      <tags>activeOnClose</tags>
       <menus xmi:id="_8ivJDokxEeqqV5JCpWsbYQ" elementId="org.eclipse.ui.console.ConsoleView">
         <tags>ViewMenu</tags>
         <tags>menuContribution:menu</tags>
@@ -725,6 +1076,10 @@
         <tags>popup:org.eclipse.debug.ui.ProcessConsoleType.#ContextMenu</tags>
       </menus>
       <menus xsi:type="menu:PopupMenu" xmi:id="_8ivJGokxEeqqV5JCpWsbYQ" elementId="org.eclipse.debug.ui.ProcessConsoleType.#ContextMenu">
+        <tags>menuContribution:popup</tags>
+        <tags>popup:org.eclipse.debug.ui.ProcessConsoleType.#ContextMenu</tags>
+      </menus>
+      <menus xsi:type="menu:PopupMenu" xmi:id="_lBQvcIxOEeq5Bt33UatOLA" elementId="org.eclipse.debug.ui.ProcessConsoleType.#ContextMenu">
         <tags>menuContribution:popup</tags>
         <tags>popup:org.eclipse.debug.ui.ProcessConsoleType.#ContextMenu</tags>
       </menus>
@@ -907,8 +1262,96 @@
       <menus xmi:id="_8ivJTYkxEeqqV5JCpWsbYQ" elementId="org.springframework.ide.eclipse.boot.dash.views.BootDashView">
         <tags>ViewMenu</tags>
         <tags>menuContribution:menu</tags>
+        <children xsi:type="menu:DirectMenuItem" xmi:id="_FGiOUIxFEeq5Bt33UatOLA">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:DirectMenuItem" xmi:id="_FGiOUYxFEeq5Bt33UatOLA">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:DirectMenuItem" xmi:id="_FGiOUoxFEeq5Bt33UatOLA">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:DirectMenuItem" xmi:id="_FGi1YIxFEeq5Bt33UatOLA">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:DirectMenuItem" xmi:id="_FGi1YYxFEeq5Bt33UatOLA">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:DirectMenuItem" xmi:id="_FGi1YoxFEeq5Bt33UatOLA">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:DirectMenuItem" xmi:id="_FGi1Y4xFEeq5Bt33UatOLA">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:DirectMenuItem" xmi:id="_FGi1ZIxFEeq5Bt33UatOLA">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:DirectMenuItem" xmi:id="_FGi1ZYxFEeq5Bt33UatOLA">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:MenuSeparator" xmi:id="_FGi1ZoxFEeq5Bt33UatOLA">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:DirectMenuItem" xmi:id="_FGi1Z4xFEeq5Bt33UatOLA">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:DirectMenuItem" xmi:id="_FGi1aIxFEeq5Bt33UatOLA">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:MenuSeparator" xmi:id="_FGi1aYxFEeq5Bt33UatOLA">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:DirectMenuItem" xmi:id="_FGi1aoxFEeq5Bt33UatOLA">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:MenuSeparator" xmi:id="_FGi1a4xFEeq5Bt33UatOLA">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:DirectMenuItem" xmi:id="_FGi1bIxFEeq5Bt33UatOLA">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:DirectMenuItem" xmi:id="_FGi1bYxFEeq5Bt33UatOLA">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:DirectMenuItem" xmi:id="_FGi1boxFEeq5Bt33UatOLA">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:MenuSeparator" xmi:id="_FGi1b4xFEeq5Bt33UatOLA">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:DirectMenuItem" xmi:id="_FGjccIxFEeq5Bt33UatOLA">
+          <tags>Opaque</tags>
+        </children>
       </menus>
-      <toolbar xmi:id="_8ivJYokxEeqqV5JCpWsbYQ" elementId="org.springframework.ide.eclipse.boot.dash.views.BootDashView"/>
+      <toolbar xmi:id="_8ivJYokxEeqqV5JCpWsbYQ" elementId="org.springframework.ide.eclipse.boot.dash.views.BootDashView">
+        <children xsi:type="menu:DirectToolItem" xmi:id="_FGjccYxFEeq5Bt33UatOLA">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:DirectToolItem" xmi:id="_FGjccoxFEeq5Bt33UatOLA">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:DirectToolItem" xmi:id="_FGjcc4xFEeq5Bt33UatOLA">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:DirectToolItem" xmi:id="_FGjcdIxFEeq5Bt33UatOLA">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:DirectToolItem" xmi:id="_FGjcdYxFEeq5Bt33UatOLA">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:DirectToolItem" xmi:id="_FGjcdoxFEeq5Bt33UatOLA">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:DirectToolItem" xmi:id="_FGjcd4xFEeq5Bt33UatOLA">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:DirectToolItem" xmi:id="_FGjceIxFEeq5Bt33UatOLA">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:DirectToolItem" xmi:id="_FGjceYxFEeq5Bt33UatOLA">
+          <tags>Opaque</tags>
+        </children>
+      </toolbar>
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_8ivJbIkxEeqqV5JCpWsbYQ" elementId="org.eclipse.ant.ui.views.AntView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Ant" iconURI="platform:/plugin/org.eclipse.ant.ui/icons/full/eview16/ant_view.png" tooltip="" closeable="true">
       <persistedState key="originalCompatibilityViewClass" value="org.eclipse.ant.internal.ui.views.AntView"/>
@@ -934,6 +1377,14 @@
         <tags>menuContribution:popup</tags>
         <tags>popup:org.eclipse.debug.ui.DebugView</tags>
       </menus>
+      <menus xsi:type="menu:PopupMenu" xmi:id="_l_0pcIxOEeq5Bt33UatOLA" elementId="org.eclipse.debug.ui.DebugView">
+        <tags>menuContribution:popup</tags>
+        <tags>popup:org.eclipse.debug.ui.DebugView</tags>
+      </menus>
+      <menus xsi:type="menu:PopupMenu" xmi:id="_mAQHQIxOEeq5Bt33UatOLA" elementId="org.eclipse.debug.ui.DebugView">
+        <tags>menuContribution:popup</tags>
+        <tags>popup:org.eclipse.debug.ui.DebugView</tags>
+      </menus>
       <toolbar xmi:id="_8ivJcYkxEeqqV5JCpWsbYQ" elementId="org.eclipse.debug.ui.DebugView" visible="false"/>
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_8ivJcokxEeqqV5JCpWsbYQ" elementId="org.eclipse.wst.server.ui.ServersView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Servers" iconURI="platform:/plugin/org.eclipse.wst.server.ui/icons/cview16/servers_view.gif" tooltip="" closeable="true">
@@ -945,8 +1396,158 @@
       <menus xmi:id="_8ivJc4kxEeqqV5JCpWsbYQ" elementId="org.eclipse.wst.server.ui.ServersView">
         <tags>ViewMenu</tags>
         <tags>menuContribution:menu</tags>
+        <children xsi:type="menu:MenuSeparator" xmi:id="_qBIGQIxPEeq5Bt33UatOLA" elementId="additions">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:MenuSeparator" xmi:id="_qBIGQYxPEeq5Bt33UatOLA" elementId="filterActionGroup">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:DirectMenuItem" xmi:id="_qBItUIxPEeq5Bt33UatOLA">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:MenuSeparator" xmi:id="_qBItUYxPEeq5Bt33UatOLA" elementId="filterActionGroupFilters-start" visible="false">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:Menu" xmi:id="_qBItUoxPEeq5Bt33UatOLA" visible="false" label="Re&amp;cent Filters">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:MenuSeparator" xmi:id="_qBItU4xPEeq5Bt33UatOLA" elementId="filterActionGroupFilters-end">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:MenuSeparator" xmi:id="_qBItVIxPEeq5Bt33UatOLA" elementId="additions-end">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:MenuSeparator" xmi:id="_qBItVYxPEeq5Bt33UatOLA">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:MenuSeparator" xmi:id="_qBJUYIxPEeq5Bt33UatOLA" elementId="additions">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:MenuSeparator" xmi:id="_qBJUYYxPEeq5Bt33UatOLA" elementId="additions-end">
+          <tags>Opaque</tags>
+        </children>
       </menus>
-      <toolbar xmi:id="_8ivJdIkxEeqqV5JCpWsbYQ" elementId="org.eclipse.wst.server.ui.ServersView" visible="false"/>
+      <menus xsi:type="menu:PopupMenu" xmi:id="_qAplIIxPEeq5Bt33UatOLA" elementId="org.eclipse.wst.server.ui.ServersView">
+        <tags>menuContribution:popup</tags>
+        <tags>popup:org.eclipse.wst.server.ui.ServersView</tags>
+      </menus>
+      <toolbar xmi:id="_8ivJdIkxEeqqV5JCpWsbYQ" elementId="org.eclipse.wst.server.ui.ServersView" visible="false">
+        <children xsi:type="menu:DirectToolItem" xmi:id="_qBJUYoxPEeq5Bt33UatOLA" elementId="FRAME_ACTION_GROUP_ID" visible="false">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:DirectToolItem" xmi:id="_qBJUY4xPEeq5Bt33UatOLA">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:DirectToolItem" xmi:id="_qDzm0IxPEeq5Bt33UatOLA">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:DirectToolItem" xmi:id="_qD008IxPEeq5Bt33UatOLA">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:DirectToolItem" xmi:id="_qD2DEIxPEeq5Bt33UatOLA">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:DirectToolItem" xmi:id="_qD2qIIxPEeq5Bt33UatOLA">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:DirectToolItem" xmi:id="_qD34QIxPEeq5Bt33UatOLA">
+          <tags>Opaque</tags>
+        </children>
+      </toolbar>
+    </sharedElements>
+    <sharedElements xsi:type="basic:Part" xmi:id="_tzbvsIxOEeq5Bt33UatOLA" elementId="org.eclipse.debug.ui.RegisterView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Registers" iconURI="platform:/plugin/org.eclipse.debug.ui/icons/full/eview16/register_view.png" tooltip="" closeable="true">
+      <persistedState key="originalCompatibilityViewBundle" value="org.eclipse.debug.ui"/>
+      <persistedState key="originalCompatibilityViewClass" value="org.eclipse.debug.internal.ui.views.registers.RegistersView"/>
+      <tags>View</tags>
+      <tags>categoryTag:Debug</tags>
+    </sharedElements>
+    <sharedElements xsi:type="basic:Part" xmi:id="_tzcWwIxOEeq5Bt33UatOLA" elementId="org.eclipse.debug.ui.VariableView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Variables" iconURI="platform:/plugin/org.eclipse.debug.ui/icons/full/eview16/variable_view.png" tooltip="" closeable="true">
+      <persistedState key="originalCompatibilityViewBundle" value="org.eclipse.debug.ui"/>
+      <persistedState key="originalCompatibilityViewClass" value="org.eclipse.debug.internal.ui.views.variables.VariablesView"/>
+      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view/>"/>
+      <tags>View</tags>
+      <tags>categoryTag:Debug</tags>
+      <menus xmi:id="_t2EM8IxOEeq5Bt33UatOLA" elementId="org.eclipse.debug.ui.VariableView">
+        <tags>ViewMenu</tags>
+        <tags>menuContribution:menu</tags>
+      </menus>
+      <menus xsi:type="menu:PopupMenu" xmi:id="_t3LnQIxOEeq5Bt33UatOLA" elementId="org.eclipse.debug.ui.VariableView.detail">
+        <tags>menuContribution:popup</tags>
+        <tags>popup:org.eclipse.debug.ui.VariableView.detail</tags>
+      </menus>
+      <menus xsi:type="menu:PopupMenu" xmi:id="_t4OwIIxOEeq5Bt33UatOLA" elementId="org.eclipse.debug.ui.VariableView">
+        <tags>menuContribution:popup</tags>
+        <tags>popup:org.eclipse.debug.ui.VariableView</tags>
+      </menus>
+      <toolbar xmi:id="_t2EM8YxOEeq5Bt33UatOLA" elementId="org.eclipse.debug.ui.VariableView"/>
+    </sharedElements>
+    <sharedElements xsi:type="basic:Part" xmi:id="_tzc90IxOEeq5Bt33UatOLA" elementId="org.eclipse.debug.ui.BreakpointView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Breakpoints" iconURI="platform:/plugin/org.eclipse.debug.ui/icons/full/eview16/breakpoint_view.png" tooltip="" closeable="true">
+      <persistedState key="originalCompatibilityViewBundle" value="org.eclipse.debug.ui"/>
+      <persistedState key="originalCompatibilityViewClass" value="org.eclipse.debug.internal.ui.views.breakpoints.BreakpointsView"/>
+      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view/>"/>
+      <tags>View</tags>
+      <tags>categoryTag:Debug</tags>
+      <menus xmi:id="_t8MqIIxOEeq5Bt33UatOLA" elementId="org.eclipse.debug.ui.BreakpointView">
+        <tags>ViewMenu</tags>
+        <tags>menuContribution:menu</tags>
+      </menus>
+      <menus xsi:type="menu:PopupMenu" xmi:id="_t94FIIxOEeq5Bt33UatOLA" elementId="org.eclipse.debug.ui.VariableView.detail">
+        <tags>menuContribution:popup</tags>
+        <tags>popup:org.eclipse.debug.ui.VariableView.detail</tags>
+      </menus>
+      <menus xsi:type="menu:PopupMenu" xmi:id="_t-hlYIxOEeq5Bt33UatOLA" elementId="org.eclipse.debug.ui.BreakpointView">
+        <tags>menuContribution:popup</tags>
+        <tags>popup:org.eclipse.debug.ui.BreakpointView</tags>
+      </menus>
+      <toolbar xmi:id="_t8MqIYxOEeq5Bt33UatOLA" elementId="org.eclipse.debug.ui.BreakpointView"/>
+    </sharedElements>
+    <sharedElements xsi:type="basic:Part" xmi:id="_tzeL8IxOEeq5Bt33UatOLA" elementId="org.eclipse.debug.ui.ExpressionView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Expressions" iconURI="platform:/plugin/org.eclipse.debug.ui/icons/full/eview16/watchlist_view.png" tooltip="" closeable="true">
+      <persistedState key="originalCompatibilityViewBundle" value="org.eclipse.debug.ui"/>
+      <persistedState key="originalCompatibilityViewClass" value="org.eclipse.debug.internal.ui.views.expression.ExpressionView"/>
+      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view/>"/>
+      <tags>View</tags>
+      <tags>categoryTag:Debug</tags>
+      <menus xmi:id="_t7JhQIxOEeq5Bt33UatOLA" elementId="org.eclipse.debug.ui.ExpressionView">
+        <tags>ViewMenu</tags>
+        <tags>menuContribution:menu</tags>
+      </menus>
+      <menus xsi:type="menu:PopupMenu" xmi:id="_t7W8oIxOEeq5Bt33UatOLA" elementId="org.eclipse.debug.ui.VariableView.detail">
+        <tags>menuContribution:popup</tags>
+        <tags>popup:org.eclipse.debug.ui.VariableView.detail</tags>
+      </menus>
+      <menus xsi:type="menu:PopupMenu" xmi:id="_t7rswIxOEeq5Bt33UatOLA" elementId="org.eclipse.debug.ui.ExpressionView">
+        <tags>menuContribution:popup</tags>
+        <tags>popup:org.eclipse.debug.ui.ExpressionView</tags>
+      </menus>
+      <toolbar xmi:id="_t7JhQYxOEeq5Bt33UatOLA" elementId="org.eclipse.debug.ui.ExpressionView"/>
+    </sharedElements>
+    <sharedElements xsi:type="basic:Part" xmi:id="_tzezAIxOEeq5Bt33UatOLA" elementId="org.eclipse.ui.views.PropertySheet" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Properties" iconURI="platform:/plugin/org.eclipse.ui.views/icons/full/eview16/prop_ps.png" tooltip="" closeable="true">
+      <persistedState key="originalCompatibilityViewBundle" value="org.eclipse.ui.views"/>
+      <persistedState key="originalCompatibilityViewClass" value="org.eclipse.ui.views.properties.PropertySheet"/>
+      <tags>View</tags>
+      <tags>categoryTag:General</tags>
+    </sharedElements>
+    <sharedElements xsi:type="basic:Part" xmi:id="_tzkSkIxOEeq5Bt33UatOLA" elementId="org.eclipse.pde.runtime.LogView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Error Log" iconURI="platform:/plugin/org.eclipse.ui.views.log/icons/eview16/error_log.png" tooltip="" closeable="true">
+      <persistedState key="originalCompatibilityViewBundle" value="org.eclipse.ui.views.log"/>
+      <persistedState key="originalCompatibilityViewClass" value="org.eclipse.ui.internal.views.log.LogView"/>
+      <tags>View</tags>
+      <tags>categoryTag:General</tags>
+    </sharedElements>
+    <sharedElements xsi:type="basic:Part" xmi:id="_tzn88IxOEeq5Bt33UatOLA" elementId="org.eclipse.jdt.debug.ui.DisplayView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Debug Shell" iconURI="platform:/plugin/org.eclipse.jdt.debug.ui/icons/full/etool16/disp_sbook.png" tooltip="" closeable="true">
+      <persistedState key="originalCompatibilityViewBundle" value="org.eclipse.jdt.debug.ui"/>
+      <persistedState key="originalCompatibilityViewClass" value="org.eclipse.jdt.internal.debug.ui.display.DisplayView"/>
+      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view/>"/>
+      <tags>View</tags>
+      <tags>categoryTag:Debug</tags>
+      <menus xmi:id="_t--RUIxOEeq5Bt33UatOLA" elementId="org.eclipse.jdt.debug.ui.DisplayView">
+        <tags>ViewMenu</tags>
+        <tags>menuContribution:menu</tags>
+      </menus>
+      <menus xsi:type="menu:PopupMenu" xmi:id="_t_-W4IxOEeq5Bt33UatOLA" elementId="org.eclipse.jdt.debug.ui.DisplayView">
+        <tags>menuContribution:popup</tags>
+        <tags>popup:org.eclipse.jdt.debug.ui.DisplayView</tags>
+      </menus>
+      <toolbar xmi:id="_t--RUYxOEeq5Bt33UatOLA" elementId="org.eclipse.jdt.debug.ui.DisplayView"/>
     </sharedElements>
     <trimBars xmi:id="_8ivJdYkxEeqqV5JCpWsbYQ" elementId="org.eclipse.ui.main.toolbar">
       <children xsi:type="menu:ToolBar" xmi:id="_8ivJdokxEeqqV5JCpWsbYQ" elementId="group.file" toBeRendered="false">
@@ -955,7 +1556,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_8ivJeIkxEeqqV5JCpWsbYQ" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_owXsIIqmEeqR5uWvNnz_PA" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_8i0orIkxEeqqV5JCpWsbYQ"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_fL1H8IxgEeqQg-MJ3M3n3Q" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_8i0orIkxEeqqV5JCpWsbYQ"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_8ivJhYkxEeqqV5JCpWsbYQ" elementId="group.edit" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -971,13 +1572,13 @@
       <children xsi:type="menu:ToolBar" xmi:id="_8ivJvIkxEeqqV5JCpWsbYQ" elementId="org.eclipse.debug.ui.launchActionSet">
         <tags>Draggable</tags>
       </children>
-      <children xsi:type="menu:ToolBar" xmi:id="_8ivJw4kxEeqqV5JCpWsbYQ" elementId="org.eclipse.jdt.ui.JavaElementCreationActionSet">
+      <children xsi:type="menu:ToolBar" xmi:id="_8ivJw4kxEeqqV5JCpWsbYQ" elementId="org.eclipse.jdt.ui.JavaElementCreationActionSet" visible="false">
         <tags>Draggable</tags>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_8ivJyIkxEeqqV5JCpWsbYQ" elementId="org.eclipse.search.searchActionSet">
         <tags>Draggable</tags>
       </children>
-      <children xsi:type="menu:ToolBar" xmi:id="_8ivJzIkxEeqqV5JCpWsbYQ" elementId="org.eclipse.ui.edit.text.actionSet.presentation" visible="false">
+      <children xsi:type="menu:ToolBar" xmi:id="_8ivJzIkxEeqqV5JCpWsbYQ" elementId="org.eclipse.ui.edit.text.actionSet.presentation">
         <tags>Draggable</tags>
         <children xsi:type="menu:HandledToolItem" xmi:id="_8ivJzYkxEeqqV5JCpWsbYQ" elementId="org.eclipse.ui.genericeditor.togglehighlight" visible="false" iconURI="platform:/plugin/org.eclipse.ui.genericeditor/icons/full/etool16/mark_occurrences.png" selected="true" type="Check" command="_8i0o6IkxEeqqV5JCpWsbYQ">
           <persistedState key="IIdentifier" value="org.eclipse.ui.genericeditor/org.eclipse.ui.genericeditor.togglehighlight"/>
@@ -1046,7 +1647,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_8ivJ9IkxEeqqV5JCpWsbYQ" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_owdywIqmEeqR5uWvNnz_PA" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_8i0CdYkxEeqqV5JCpWsbYQ"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_fL6ngIxgEeqQg-MJ3M3n3Q" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_8i0CdYkxEeqqV5JCpWsbYQ"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_8ivJ_okxEeqqV5JCpWsbYQ" elementId="com.essiembre.eclipse.rbe.ui.editor.ResourceBundleEditor" visible="false">
         <tags>Draggable</tags>
@@ -1093,8 +1694,8 @@
         <tags>Draggable</tags>
       </children>
     </trimBars>
-    <trimBars xmi:id="_8ivv_okxEeqqV5JCpWsbYQ" elementId="org.eclipse.ui.trim.vertical2" side="Right">
-      <children xsi:type="menu:ToolControl" xmi:id="_8ivv_4kxEeqqV5JCpWsbYQ" elementId="right(IDEWindow).(org.eclipse.jdt.ui.JavaPerspective)" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.TrimStack">
+    <trimBars xmi:id="_8ivv_okxEeqqV5JCpWsbYQ" elementId="org.eclipse.ui.trim.vertical2" toBeRendered="false" side="Right">
+      <children xsi:type="menu:ToolControl" xmi:id="_8ivv_4kxEeqqV5JCpWsbYQ" elementId="right(IDEWindow).(org.eclipse.jdt.ui.JavaPerspective)" toBeRendered="false" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.TrimStack">
         <tags>TrimStack</tags>
         <tags>Draggable</tags>
       </children>

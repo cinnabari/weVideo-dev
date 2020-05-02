@@ -16,7 +16,7 @@ public class BasicController {
 	public static final String FILE_SPACE = "G:/wevideo_res";
 	
 	//ffmpeg所在目录
-	public static final String FFMPEG_EXE = "E:\\ffmpeg\\bin\\ffmpeg.exe";
+	public static final String FFMPEG_EXE = "G:\\wevideo_res\\ffmpeg\\bin\\ffmpeg.exe";
 	
 	public static final Integer PAGE_SIZE = 5;
 }

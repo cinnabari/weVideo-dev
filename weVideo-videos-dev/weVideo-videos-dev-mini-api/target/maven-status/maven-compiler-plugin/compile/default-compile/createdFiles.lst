@@ -1,0 +1,10 @@
+com\weVideo\controller\interceptor\MiniInterceptor.class
+com\weVideo\controller\RegistLoginController.class
+com\weVideo\controller\UserController.class
+com\weVideo\controller\VideoController.class
+com\weVideo\Swagger2.class
+com\weVideo\Application.class
+com\weVideo\controller\BasicController.class
+com\weVideo\WebMvcConfig.class
+com\weVideo\controller\HelloWorldController.class
+com\weVideo\controller\BgmController.class

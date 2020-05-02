@@ -1,0 +1,12 @@
+com\weVideo\pojo\SearchRecords.class
+com\weVideo\pojo\Users.class
+com\weVideo\pojo\UsersLikeVideos.class
+com\weVideo\pojo\vo\UsersVO.class
+com\weVideo\pojo\vo\PublisherVideo.class
+com\weVideo\pojo\UsersFans.class
+com\weVideo\pojo\Comments.class
+com\weVideo\pojo\Bgm.class
+com\weVideo\pojo\UsersReport.class
+com\weVideo\pojo\vo\CommentsVO.class
+com\weVideo\pojo\Videos.class
+com\weVideo\pojo\vo\VideosVO.class

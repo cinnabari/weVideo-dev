@@ -1,0 +1,6 @@
+com\weVideo\serviceImpl\BgmServiceImpl.class
+com\weVideo\service\UserService.class
+com\weVideo\service\VideoService.class
+com\weVideo\serviceImpl\UserServiceImpl.class
+com\weVideo\serviceImpl\VideoServiceImpl.class
+com\weVideo\service\BgmService.class
